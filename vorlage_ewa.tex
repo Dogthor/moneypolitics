@@ -1,0 +1,129 @@
+\documentclass[
+onecolumn,
+a4paper,
+abstracton,
+parskip=half
+%,draft
+,final
+]{scrartcl}
+
+\usepackage[pdftex
+,draft
+]{graphicx}
+
+\usepackage{booktabs}
+\usepackage[cmex10]{amsmath}
+\interdisplaylinepenalty=2500
+\usepackage{url}
+\usepackage[breaklinks]{hyperref}
+\hyphenation{op-tical net-works semi-conduc-tor M�g-lich-keit}% correct bad hyphenation here
+\usepackage[ansinew]{inputenc}
+\usepackage{eurosym}
+\usepackage{listings}
+\lstset{basicstyle=\small\ttfamily,breaklines=true}
+\emergencystretch 1000pt
+\usepackage{subcaption}
+\usepackage{mathtools}
+
+\usepackage[ngerman]{babel}
+
+
+\usepackage[a4paper]{geometry}
+
+\usepackage{natbib}
+\usepackage{setspace}
+\usepackage{tabulary}
+\usepackage{units}
+
+%%% Deutsche Verzeichnis-�berschriften
+
+\renewcommand{\contentsname}{Inhalt}
+\renewcommand{\listtablename}{Tabellenverzeichnis}
+\renewcommand{\listfigurename}{Abbildungsverzeichnis}
+
+%%% Kommentarfuntkion %%%
+\usepackage[textwidth=2.2cm
+,obeyFinal
+]{todonotes}
+
+
+\begin{document}
+
+%%%%%% CREATING THE TITLE %%%%%
+\titlehead{
+\centering
+\includegraphics[width = 0.3\textwidth ]{logo_wip.jpg} \\
+\small Technische Universit�t Berlin \\
+Fakult�t VII (Wirtschaft \& Management) \\
+Fachgebiet Wirtschafts- und Infrastrukturpolitik (WIP)
+}
+\title{Titel}
+%\subtitle{Untertitel}
+\author{
+Gregor May
+\footnotesize \textit{(Matr: 357150)}
+\and
+Marius Hanniske
+\footnotesize \textit{(Matr: XXXXX)}
+\and
+
+}
+\date{M�rz 2014}
+
+\maketitle
+
+%%%% ABSTRACT %%%%%
+
+\selectlanguage{ngerman}
+\begin{abstract}
+ZUSAMMENFASSUNG
+\end{abstract}
+
+\begin{flushleft}
+%\nointend \textbf{JEL Codes:} C61, H54, L94 \\
+%\nointend \textbf{Keywords:} Electricity, European Transmission Network, Investment Model
+\end{flushleft}
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+\newpage
+\onehalfspacing
+
+%%%%% TEXTK�RPER %%%%%
+
+
+\section{Leben}
+\label{sec1:leben}
+TEXT TEXT TEXT
+
+\clearpage
+\section{Werk}
+\label{sec1:werk}
+TEXT TEXT TEXT
+
+\clearpage
+\section{Wirkung}
+\label{sec1:wirkung}
+TEXT TEXT TEXT
+
+
+
+%%%% LITERATURE %%%%%
+
+\vspace{10pt}
+%\newpage
+\singlespacing
+%bibliographystyle{diss_fk}
+\bibliographystyle{authordate1}
+\bibliography{literatur_EWA}	% Sie ben�tigen eine *.bib-Datei
+\newpage
+
+%%%% APPENDIX %%%%%
+
+%\section*{Anhang}
+%\label{sec:anhang}
+%
+
+\end{document}
