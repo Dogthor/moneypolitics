@@ -1,5 +1,8 @@
 # Notizen / Fortschrittstagebuch
 
+## 18.08.14
+- Lesenotizenordner erstellt
+
 # 17.08.14
 
 - Erstmal Baßeler lesen, Bevor ich mich nochmal in die Nesseln setze.
