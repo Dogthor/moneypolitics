@@ -4,12 +4,20 @@
 - J.M.K - Laissez Faire (abgeschlossen)
 
 ## Noch zu Lesen
-- J.M.Keynes - Traktat über die Währungsreform (1/3 durch)
-- Ulrich Baßeler - Grundlagen und Probleme der Volkswirtschaft
-- Milton Friedmann - Free to Choose
+- J.M.Keynes - Traktat über die Währungsreform (1/3 durch)  (Gregor)
+- Ulrich Baßeler - Grundlagen und Probleme der Volkswirtschaft (Gregor)
+- Milton Friedmann - Free to Choose (Gregor)
+
 - J.M.K. - Activities in India and Cambridge (2.rangig)
-- Hyman Minsky - Instabilität und Kapitalismus
-- Hyman Minsky - John Maynard Keynes, Finanzierungsprozesse und Instabilität des Kapitalismus
+- Hyman Minsky - Instabilität und Kapitalismus(2.rangig)
+- Hyman Minsky - John Maynard Keynes, Finanzierungsprozesse und Instabilität des Kapitalismus(2.rangig)
+
+
+## Noch zu besorgen:
+- Joachim Starbatty: Milton Friedman (Gregor)
+- Milton Friedman: Geldangebot, Preis- und Produktionsänderungen
+- Milton Friedman: Die optimale Geldmenge und andere Essays
+-
 
 ## Vorhanden bei Gregor
 - J.M.Keynes - Traktat über die Währungsreform (1/3 durch)
@@ -23,4 +31,4 @@
 
 ## Vorhanden bei Marius
 -
--
+- 
