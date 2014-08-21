@@ -42,7 +42,9 @@ Basseler2010, S.512: "Geschäftsbanken (oder auch Kreditinstitute) sind die zent
 Basseler2010, S.513: "(...)die Organisation des Kreditverkehrs ist ein klassisches Geschäft der banken: Sie beschaffen Geld, sie verleihen Geld und sie versuchen, dieses Geld mit Gewinn wieder zurückzubekommen.(...)Die Kreditgewährung war neben der Abwicklung des Zahlungsverkehrs die klassische Aufgabe der Geschäftsbank."
 
 
-Basseler2010, S.
+Basseler2010, S. 513: "Daneben gibt es weitere Aufgaben der Banken, vor allem die Vermögensverwaltung der Kunden, die Ausgabe und den Handel mit Wertpapieren, die Beratung und Unterstützung bei Unternehmenszusammenschlüssen oder die Unterstützung von Unternehmen bei ihrer Kapitalaufnahme, etwa bei Börsengängen. Dies wird zusammenfassend **Investmentbanking** bezeichnet. (...) In diesem Segment des Bankengeschäfts  werden auf Zertifikate entwickelt und verkauft oder Fonds aufgelegt und Fondsanteile verkauft. (...)In Kontinentaleuropa ist (...)das Universalbankensystem etabliert(...). Sparkassen übernehmen (...)die Abwicklung des Zahlungsverkehrs und des >>kleinen<< Kreditverkehrs, kleine Privatbanken übernehmen eher die Funktionen des Investmentbankings und große Universalbanken übernehmen alle Geschäftssparten."
+
+Basseler2010, S.515: "Das Eigenkapital [einer Bank] setzt sich konkret zusammen aus dem Grundkapital, den Kapitalrücklagen und den Gewinnrücklagen (einbehaltene Gewinne) sowie einer stillen Einlage des Finanzmarktstabilisierungsfonds (...). Grundsätzlich ist das Eigenkapital der Banken von zentraler Bedeutung. Es ist letztlich das Kapital, das die Bank zum Ausgleich von Verlusten aus ihrem Kredit- und Investmentgeschäft einsetzen kann.  Daher sind in der Bankenaufsicht bestimmte Mindestanforderungen an die Höhe des haftenden Eigenkapitals (...)vorgesehen"
 
 Basseler2010, S.
 
@@ -82,9 +84,12 @@ Basseler2010, S.
 
 Basseler2010, S.
 
-Basseler2010, S.
-
-Basseler2010, S.
+## 18. Geldpolitik der Europäischen Zentralbank
+Basseler2010, S.551: "Geldpolitik hat die Aufgabe, eine optimale Geldversorgung der Wirtschaft zu gewährleisten. Diese Aufgabe wird überwiegend einer staatlich organisierten, aber unabhägigen Zentralbank zugewiesen. Vereinzelt gemachte Vorschläge, die Aufgabe der Geldversorgung einem Wettbewerb privater Geschäftsbanken zu überlassen, die ein System konkurrierender Parallelwährung schaffen sollten, haben sich bislang nicht durchgesetzt. Geldpolitik bleibt staatliche Aufgabe.
+Unstrittig ist das Ziel der Geldpolitik: die Wahrung der Geldwertstabilität. Strittig ist nur, ob dies das einzige Ziel der Geldpolitik sein soll.
+In monetaristischer Sicht hat die Geldpolitik nur das Ziel, für Geldwertstabilität zu sorgen. Andere Ziele anzustreben, sei einerseits nicht notwendig, weil das marktwirtschaftliche System an sich zur Vollbeschäftigung tendiere, und andererseits nicht möglich, weill die Geldmenge auch nur ein Einfluss auf das Preisniveau ausübe.
+In keynesianischer Sicht erhält die Geldpolitik mindestens eine weitere Hilfsfunktion, nämlich die antizyklische Fiskalpolitik in Rezessionsphasen durch eine Niedrigzinspolitik und in Boomphasen durch eine Hochzinspolitik zu unterstützen.
+  "
 
 Basseler2010, S.
 
