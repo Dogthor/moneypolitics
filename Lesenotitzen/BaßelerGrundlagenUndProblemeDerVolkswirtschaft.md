@@ -21,6 +21,74 @@ Basseler2010, S. 508: "MFIs sind also im Wesentlichen:
 - Geldmarktfonds.
 (...) Innerhalb der Geldmenge M3 spielen Bargeldumlauf und täglich fällige Einlagen die größte Rolle; Einlagen mit vereinbarterter Kündigungsfrist (...) sind ebenfalls quantitativ bedeutsam; die übrigen Komponenten machen insgesamt nur knapp 20 Prozent der Geldmenge M3 aus."
 
+
+## 16.4 Akteure des Finanzbereiches
+
+Basseler2010, S.511: "Die Akteure im Finanzbereich werden allgemein FInanzintermediäre genannt. [Diese] vermitteln Finanzprodukte zwischen den Anbietern und Nachfragern. (...) Dies sind vor allem Banken und Kapitalanlagegesellschaften, die selbst Finanzprodukte kreieren sowie institutionelle Anleger."
+
+Basseler2010, S.511f: "Es muss im Finanzbereich eine staatliche Institition geben, eine staatlich organisierte Zentralbank, die folgende Aufgaben erfüllt:
+- die Ausgabe der gesetzlichen Zahlungsmittel (Staatliches Emissionsmonopol),
+- die Durchführung einer Geldpolitik mit dem Ziel einer angemessenen Begrenzung der Geldmenge,
+- die Organisation eines reibungslosen Zahlungs- und Kreditverkehrs als >>Bank der Banken<<,
+- die Wahrung der Geldwertstabilität,
+- die Bereitstellung einer ausreichenden Menge an Geld in Krisenzeiten"
+
+Basseler2010, S.512: "Mit dem (...) 01.01.1999 ist (...)die Europäische Zentralbank (EZB) die zentrale Institution - also die Zentralbank - für die Festlegung und Ausführung der Geldpolik. Daneben existiert weiterhin die Deutsche Bundesbank, die als Zentralbank der Bundesrepublik Deutschland Teil des Europäischen Systems der Zentralbanken ist. Sie ist (...) ausführendes organ der geldpolitischen Entscheidungen der (...)EZB. "
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
 Basseler2010, S.
 
 Basseler2010, S.
