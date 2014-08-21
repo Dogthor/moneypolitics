@@ -35,9 +35,12 @@ Basseler2010, S.511f: "Es muss im Finanzbereich eine staatliche Institition gebe
 
 Basseler2010, S.512: "Mit dem (...) 01.01.1999 ist (...)die Europäische Zentralbank (EZB) die zentrale Institution - also die Zentralbank - für die Festlegung und Ausführung der Geldpolik. Daneben existiert weiterhin die Deutsche Bundesbank, die als Zentralbank der Bundesrepublik Deutschland Teil des Europäischen Systems der Zentralbanken ist. Sie ist (...) ausführendes organ der geldpolitischen Entscheidungen der (...)EZB. "
 
-Basseler2010, S.
 
-Basseler2010, S.
+## 16.4.2. Geschäftsbanken (Kreditinstitute)
+Basseler2010, S.512: "Geschäftsbanken (oder auch Kreditinstitute) sind die zentralen Akteure im Finanzbereich einer Volkswirtschaft. Die erste zentrale Funktion von Geschäftsbanken (kurz: Banken) ist die Abwicklung des **Zahlungsverkehrs** einer Volkswirtschaft. (...) Die zweite zentrale Funktion von Banken ist die Organisation und Durchführung des **Kreditverkehrs** einer Volkswirtschaft. "
+
+Basseler2010, S.513: "(...)die Organisation des Kreditverkehrs ist ein klassisches Geschäft der banken: Sie beschaffen Geld, sie verleihen Geld und sie versuchen, dieses Geld mit Gewinn wieder zurückzubekommen.(...)Die Kreditgewährung war neben der Abwicklung des Zahlungsverkehrs die klassische Aufgabe der Geschäftsbank."
+
 
 Basseler2010, S.
 
