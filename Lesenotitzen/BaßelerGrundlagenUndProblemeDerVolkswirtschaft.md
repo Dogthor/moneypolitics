@@ -101,10 +101,22 @@ Basseler2010, S.
 
 Basseler2010, S.
 
-Basseler2010, S.
 
-Basseler2010, S.
 
-Basseler2010, S.
+## 18.2. Die Europäische Zentralbank und das Europäische System der Zentralbanken
+
+
+## 18.2.2. Ziele und Aufgaben von ESZB und EZB
+Basseler2010, S.554: "Das **zentrale** Ziel des ESZB ist in Art. 105, Abs. 1 EGV formuliert:
+>>(1) Das vorrangige Ziel des ESZB ist es, die Preisstabilität zu gewährleisten. Soweit dies ohne Beeinträchtigung des Zieles der Preisstabilität möglich ist, unterstützt das ESZB die allgemeine Wirtschaftspolitik der Gemeinschaft(...). Diese Zielvorstellung (...) entspricht dem gegenwärtig vorherrschenden Theorie- und Politikverständnis, dass eine Zentralbank in erster Linie für Preisstabilität sorgen soll und allenfals subsidiär auch andere Ziele wie Vollbeschäftigung und Wachstum anstreben soll. Diese Formulierung entspricht auch weitgehend der früher für die Deutsche Bundesbank geltenden Zielvorschrift. "
+
+Basseler2010, S.555: "Die grundlegenden Aufgaben der ESZB bestehen nach Art. 105, Abs. 2 EVG (...)darin:
+- die Geldpolitik der Gemeinschaft festzulegen und auszuführen, Devisengeschäfte im Einklangt mit Artikel 111 durchzuführen,
+- die offiziellen Währungsreserven der Mitgliedstaaten zu halten und zu verwalten,
+- das reibungslose Funktionieren der Zahlungssysteme zu fördern."
+
+Basseler2010, S.555:  Art. 111 EVG "Hier ist festgelegt, dass die Entscheidung über Wechselkurssysteme (...) und die Entscheidung über die Höhe der Wechselkurse im Falle der Festlegung auf grundsätzlich feste Wechselkurse beim Ministerrat liegt. Die EZB kann mithin nur im vorgegebenen Rahmen am Devisenmarkt agieren. (...) Das Halten von Währungsreserven gehört zu den genuinen Aufgaben einer Zentralbank. "
+
+## 18.2.3. Die Unabhängigkeit der EZB
 
 Basseler2010, S.
