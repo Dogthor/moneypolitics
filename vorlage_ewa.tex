@@ -26,7 +26,7 @@ parskip=half
 \usepackage{mathtools}
 
 \usepackage[ngerman]{babel}
-
+\usepackage[printonlyused, withpage]{acronym}
 
 \usepackage[a4paper]{geometry}
 
@@ -140,7 +140,8 @@ TEXT TEXT TEXT
 
 
 \clearpage
-
+\ac{ESZB}
+\ac{EZB}
 
 
 
@@ -156,6 +157,13 @@ Ein Instrument herausgreifen, bzw. eine Instrumentendiskussion f{\"u}hren.
 
 \clearpage
 
+\section{Abk{\"u}rzungsverzeichnis}
+
+\begin{acronym}[ESZB]
+  \acro{EZB}{Europ{\"a}ische Zentralbank}
+  \acro{ESZB}{Europ{\"a}isches System der Zentralbanken}
+\end{acronym}
+
 %%%% LITERATURE %%%%%
 
 \vspace{10pt}
@@ -166,8 +174,11 @@ Ein Instrument herausgreifen, bzw. eine Instrumentendiskussion f{\"u}hren.
 \bibliography{literatur_EWA}	% Sie ben�tigen eine *.bib-Datei
 \newpage
 
-%%%% APPENDIX %%%%%
 
+
+
+
+%%%% APPENDIX %%%%%
 %\section*{Anhang}
 %\label{sec:anhang}
 %
