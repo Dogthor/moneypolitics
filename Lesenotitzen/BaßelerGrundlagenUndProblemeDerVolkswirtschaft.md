@@ -88,12 +88,14 @@ Basseler2010, S.
 Basseler2010, S.551: "Geldpolitik hat die Aufgabe, eine optimale Geldversorgung der Wirtschaft zu gewährleisten. Diese Aufgabe wird überwiegend einer staatlich organisierten, aber unabhägigen Zentralbank zugewiesen. Vereinzelt gemachte Vorschläge, die Aufgabe der Geldversorgung einem Wettbewerb privater Geschäftsbanken zu überlassen, die ein System konkurrierender Parallelwährung schaffen sollten, haben sich bislang nicht durchgesetzt. Geldpolitik bleibt staatliche Aufgabe.
 Unstrittig ist das Ziel der Geldpolitik: die Wahrung der Geldwertstabilität. Strittig ist nur, ob dies das einzige Ziel der Geldpolitik sein soll.
 In monetaristischer Sicht hat die Geldpolitik nur das Ziel, für Geldwertstabilität zu sorgen. Andere Ziele anzustreben, sei einerseits nicht notwendig, weil das marktwirtschaftliche System an sich zur Vollbeschäftigung tendiere, und andererseits nicht möglich, weill die Geldmenge auch nur ein Einfluss auf das Preisniveau ausübe.
-In keynesianischer Sicht erhält die Geldpolitik mindestens eine weitere Hilfsfunktion, nämlich die antizyklische Fiskalpolitik in Rezessionsphasen durch eine Niedrigzinspolitik und in Boomphasen durch eine Hochzinspolitik zu unterstützen.
-  "
+In keynesianischer Sicht erhält die Geldpolitik mindestens eine weitere Hilfsfunktion, nämlich die antizyklische Fiskalpolitik in Rezessionsphasen durch eine Niedrigzinspolitik und in Boomphasen durch eine Hochzinspolitik zu unterstützen."
 
-Basseler2010, S.
+Basseler2010, S.552: "Konsequenterweise fordern die Monetaristen eine Geldmengensteuerung der Zentralbank in Form einer quasi automatischen und relativ konstanten Erhöhung der Geldmenge um den Prozentsatz des erwarteten realen Wirtschaftswachstums oder des Wachstums des realen Produktionspotentials (sogenannte **Potentialorientierte Geldmengenpolitik** ) plus der für unvermeidlich gehaltenen Preissteigerungsrate. Instrumente der Zentralbank, die hierüber hinausgehend eine an konjukturpolitische Erfordernissen ausgerichtete (>>diskreditionäre<<) Geldpolitik erlauben, lehnen sie im Prinzip ab. Die **Keynsianer** setzten sich demgegenüber für eine Geldpolitik **ergänzend** auch zum Zwecke der Konjunktursteuerung ein und fordern dementsprechende Instrumente der Zentralbank. Für sie ist Geldpolitik vor allem auf den Zinssatz als Steuerungsgröße ausgerichtet."
 
-Basseler2010, S.
+Basseler2010, S.552: "Konzeption und Durchführung der Geldpolitik ist Aufgabe der Zentralbank, im Eurosystem also Aufgabe der Europäischen Zentralbank. (...) Für die Durchführung der Geldpolitik stehen der Europäischen Zentralbank folgende Instrumente zur Verfügung:
+- die Offenmarktpolitik,
+- die Politik der ständigen Fazilitäten und
+- die Mindestreservepolitik. "
 
 Basseler2010, S.
 
