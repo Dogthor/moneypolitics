@@ -104,6 +104,18 @@ Basseler2010, S.
 
 
 ## 18.2. Die Europäische Zentralbank und das Europäische System der Zentralbanken
+Basseler2010, S.552: "Das Europäische System der Zentralbanken (ESZB) setzt sich zusammen aus der Europäischen zentralbank (EZB) und allen 27 nationalen Zentralbanken (NZBen) der der Mitgliedstaaten der EU. Die nationalen Zentralbanken jener Mitgliedstaaten, die den Euro noch nicht eingeführt haben, (...) haben einen Sonderstatus: Sie sind nicht am Entscheidungsfindungsprozess der ESZB beteiligt und führen eine eigenständige nationale Geldpolitik." 
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
+Basseler2010, S.
+
 
 
 ## 18.2.2. Ziele und Aufgaben von ESZB und EZB
