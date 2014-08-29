@@ -1,0 +1,23 @@
+\select@language {ngerman}
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Einleitung}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Benennung der Fragestellung}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Beschreibung des eigenen Verst{\"a}ndnis von Geldpolitik}{4}{subsection.1.2}
+\contentsline {section}{\numberline {2}Technisches System}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Institutionen}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Ziel}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Instrumente}{5}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Organisationen der Europ{\"a}ischen Geldpolitk}{6}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Die Europ{\"a}ische Zentralbank}{6}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}Die Offenmarktpolitik}{7}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {2.5.2}Die Politik der St{\"a}ndigen Fazilit{\"a}ten}{8}{subsubsection.2.5.2}
+\contentsline {subsubsection}{\numberline {2.5.3}Die Mindestreservepolitik.}{8}{subsubsection.2.5.3}
+\contentsline {subsubsection}{\numberline {2.5.4}Weitere Instrumente}{8}{subsubsection.2.5.4}
+\contentsline {section}{\numberline {3}Einblick in die Grundgedanken der {\"O}konomen des 19. und 20. Jahrhunderts}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}{\"U}bersicht der zu behandelnden Str{\"o}mungen und Begr{\"u}ndung der Auswahl}{8}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Einblick in die Grundgedanken der Keynsianischen Schule}{8}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Einblick in die Grundgedanken der {\"O}stereichischen Schule (Hayek)}{8}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Hayek {\"u}ber die Monetaristen}{8}{subsubsection.3.3.1}
+\contentsline {subsection}{\numberline {3.4}Einblick in die Grundgedanken der Monetaristen (Milton Friedman)}{8}{subsection.3.4}
+\contentsline {section}{\numberline {4}Case Study}{9}{section.4}
+\contentsline {section}{\numberline {5}Abk{\"u}rzungsverzeichnis}{10}{section.5}
