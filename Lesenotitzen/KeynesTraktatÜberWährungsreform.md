@@ -17,15 +17,3 @@
 ## 1. Kapitel - Die Sozialen Auswirkungen von Veränderungen im Geldwert
 
 Keynes1997, S. 1: "Die Bedeutung des Geldes liegt allein in seiner Kaufkraft. Eine Veränderung in der Münzeinheit(...), hat (...)keine Auswirkungen."
-
-Keynes1997, S.
-
-Keynes1997, S.
-
-Keynes1997, S.
-
-Keynes1997, S.
-
-Keynes1997, S.
-
-Keynes1997, S.

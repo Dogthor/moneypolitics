@@ -6,12 +6,24 @@
   Rating = {1},
   Read = {0},
   Title = {Entnationalisierung des Geldes},
-  Year = {1977}}
+  address = {T{\"u}bingen},
+  Year = {1977},
+  ISBN = {3-16-340272-0}
+  }
 
-%%------------------------------%%
-
+---------------
+\citep[vgl.][S.]{Hayek1977}: ""
+-------------
 \citep[vgl.][S. X]{Hayek1977} "Das wichtigste Ergebnis des derzeitigen Untersuchungsstadiums ist, dass der Hauptmangel des Marktsystems und damit der Grund für  wohl gerechtfertigte Vorwürfe - nämlich seine Empfänglichkeit für wiederkehrende Perioden von Depression und Arbeitslosigkeit -  eine Konsequenz des uralten Regierungsmonopols der Geldemission ist."
 
-\citep[vgl.][]{Hayek1977}
 
-\citep[vgl.][]{Hayek1977}
+\citep[vgl.][S.]{Hayek1977}: ""
+
+
+\citep[vgl.][S.]{Hayek1977}: ""
+
+
+\citep[vgl.][S.]{Hayek1977}: ""
+
+
+\citep[vgl.][S.]{Hayek1977}: ""

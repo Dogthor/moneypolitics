@@ -9,8 +9,6 @@
 - Milton Friedmann - Free to Choose (Gregor)
 
 - J.M.K. - Activities in India and Cambridge (2.rangig)
-- Hyman Minsky - Instabilität und Kapitalismus(2.rangig)
-- Hyman Minsky - John Maynard Keynes, Finanzierungsprozesse und Instabilität des Kapitalismus(2.rangig)
 
 
 ## Noch zu besorgen:

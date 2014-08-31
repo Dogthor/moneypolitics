@@ -1,3 +1,12 @@
+@Book{bombach1981theorie,
+author = {Bombach, Gottfried},
+title = {Theorie und Praxis keynesianischer Wirtschaftspolitik : Entwicklung und Stand der Diskussion},
+publisher = {Springer},
+year = {1981},
+address = {Berlin u.a},
+isbn = {0-387-07910-6}
+}
+
 Der Keynesianismus 1
 Theorie und Praxis keynesianischer Wirtschaftspolitik
 
@@ -6,6 +15,7 @@ G. Brombach, H.-J. Ramser, M. Timmermann, W. Wittmann
 Springer-Verlag
 Berlin Heidelberg New York 1976
 
+----------------------
 Teil A: Der Stand der besch‰ftigungspolitischen Diskusssion zur Zeit der Weltwirtschaftskrise in Deutschland
 
 S.11
