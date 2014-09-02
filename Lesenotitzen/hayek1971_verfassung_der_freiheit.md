@@ -57,10 +57,10 @@
 
 \citep[vgl.][S.421]{hayek1971die}: "Nichts würde wahrscheinlich mehr zur internationalen Währungsstabilität beitragen, als wenn die verschiedenen Länder sich gegenseitig vertraglich binden würden, dem freien Handel in ihren Währungen keinerlei Hindernis in den Weg zu stellen."
 
-\citep[vgl.][S.]{hayek1971die}: ""
+\citep[vgl.][S.422]{hayek1971die}: "Es gibt ein grundlegendes Dilemma, dem alle Notenbanken gegenüberstehen und das es unvermeidlich macht, dass ihre Politik mit weitem Mermessen vermunden sein muss(...:) Ihre Macht beruht hauptsächlich aud der Drohung, kein Bargeld zur Verfügung zu stellen, wenn es gebraucht wird."
 
-\citep[vgl.][S.]{hayek1971die}: ""
+\citep[vgl.][S.422]{hayek1971die}: "(...)die Maßnahmen zur Einwirkung auf Preise und Beschäfigung (...) müssen (...)darauf gerichtet sein, Veränderungen [an diesen] zuvorzukommen, bevor sie eintreten, als sie zu korrigieren, nachdem sie eingetreten sind."
 
-\citep[vgl.][S.]{hayek1971die}: ""
+\citep[vgl.][S.423]{hayek1971die}: "(...) unter den heutigen Bedingungen (haben) wir kaum eine Wahl (...), als die Währungspolitik dazdurch zu beschränken, dass ihr die Ziele und nicht spezielle Maßnahmen vorgeschrieben werden."
 
-\citep[vgl.][S.]{hayek1971die}: ""
+\citep[vgl.][S.423]{hayek1971die}: "In der Praxis kommt es wahrscheinlich nicht so sehr darauf an, wie dieses Preisniveau definiert ist, außer, dass es sich nicht ausschließlich auf Endprodukte beziehen soll(...)"
