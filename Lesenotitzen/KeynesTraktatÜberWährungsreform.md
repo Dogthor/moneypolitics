@@ -9,11 +9,11 @@
 	Editor = {Ernst Kocherthaler},
 	Publisher = {Duncker & Humblot},
 	Read = {1},
-	Title = {Ein Traktat {\"u}ber W{\"a}hrungsreform},
+	Title = {Ein Traktat {\"`u}ber W{\"`a}hrungsreform},
 	Year = {1997}}
 
 ## Vorwort
 
 ## 1. Kapitel - Die Sozialen Auswirkungen von Veränderungen im Geldwert
 
-Keynes1997, S. 1: "Die Bedeutung des Geldes liegt allein in seiner Kaufkraft. Eine Veränderung in der Münzeinheit(...), hat (...)keine Auswirkungen."
+Keynes1997, S. 1: "`Die Bedeutung des Geldes liegt allein in seiner Kaufkraft. Eine Veränderung in der Münzeinheit(...), hat (...)keine Auswirkungen."`

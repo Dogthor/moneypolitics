@@ -1,3 +1,8 @@
+
+Anmerkung: Geldschöpfung und Geldarten sind bei supranationaler Institution monopolisiert.
+
+
+
 \subsection{Organisationen der Europ{\"a}ischen Geldpolitk}
 
 Die Europ{\"a}ische Geldpolitik wird durch das Europ{\"a}ische System der Zentralbanken (ESZB) und die EZB organisiert, wobei sich die ESZB aus der Europ{\"a}ischen Zentralbank und allen 27 nationalen Zentralbanken (NZBen) der Mitgliedsstaaten der EU organisiert.

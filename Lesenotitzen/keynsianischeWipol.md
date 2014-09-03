@@ -27,31 +27,31 @@ S.13
 	S.16
 	Cob-web-Mechanismus: Preishausse -> Anbieter glauben an l‰ngerfristigen Zustand -> Weiten ihr Angebot aus -> derweil werden etwaige Engp‰sse beseitigt -> Preis geht runter -> auﬂerdem dr‰ngen die zus‰tzlichen G¸ter auf den Markt 	-> weiterer 	Preisverfall
 S.20
-	Kindleberger :"Fehler in Politik suchen" (Nullsummemspiel, Verlust des einen ist Gewinn des anderen)
+	Kindleberger :"`Fehler in Politik suchen"` (Nullsummemspiel, Verlust des einen ist Gewinn des anderen)
 S.31
-	"konjunkturpolitischem Nihilismus"  (Verneinung?)
+	"`konjunkturpolitischem Nihilismus"`  (Verneinung?)
 S.32
 	Nationalˆkonom Roland Friedlaender Prechtl -> staatliche Arbeitsbeschaffung zur Beseitigung von Investitionszur¸ckhaltung
 S.33
 	Unterbesch‰ftigung bei freier Konkurrenzwirtschaft f¸hrt wieder zur 	Vollbesch‰ftigung, Vorraussetzung: rationales Verhalten
-	Keynes: "sparen ist auch rational, weil vorraussichtlicher Gewinn sp‰terer 	Perioden angestrebt wird"
+	Keynes: "`sparen ist auch rational, weil vorraussichtlicher Gewinn sp‰terer 	Perioden angestrebt wird"`
 S.37
 	Heutige Situation: staatliches Eingreifen notwendig weil sonst Unterversorgung 	bestimmter G¸ter durch privat Angebot
 	Auﬂerdem: Staat hat Sorge zu tragen f¸r jedes Mitglied der Gesellschaft keine 	Nachteile durch marktwirtschaftliche Vorg‰nge entstehen zu lassen -> Daraus 	w¸rden sonst Spannungen zwischen den sozialen Schichten entstehen -> 		auseinanderbrechen des sozial Systems
-	"... seit der Entwicklung der keynesianischen Volkswirtschaftslehre besteht, ..., ‹bereinstimmung hinsichtliche der Auffassung, daﬂ zum Zwecke der Nivellierung der 	 konjunkturellen Schwankungen eine aktive staatliche 	Wirtschaftspolitik nicht nur fˆrdelich, sondern auch erforderlich ist."
+	"`... seit der Entwicklung der keynesianischen Volkswirtschaftslehre besteht, ..., ‹bereinstimmung hinsichtliche der Auffassung, daﬂ zum Zwecke der Nivellierung der 	 konjunkturellen Schwankungen eine aktive staatliche 	Wirtschaftspolitik nicht nur fˆrdelich, sondern auch erforderlich ist."`
 S.43
 	Erl‰uterung der Klassischen ÷konomie:
-	"Information ist aber gerade das, was der Wirtschaftspolitiker vor allen Dingen sucht und auch am dringlichsten benˆtigt, wenn er jeweils eine der Situation angemessenen Entscheidung f‰llen will."
+	"`Information ist aber gerade das, was der Wirtschaftspolitiker vor allen Dingen sucht und auch am dringlichsten benˆtigt, wenn er jeweils eine der Situation angemessenen Entscheidung f‰llen will."`
 	Falsifizierbarkeitskriterium: Widerlegung einer Theorie hat st‰rkeres Gewicht als ihre Best‰tigung
 S.44
-	"In seiner Eigenschaft als allg. Anerkanntes Tauschmittel muﬂ dem Geld indessen [ fehlte im Klassischen Modell] eine groﬂe Bedeutung zugemessen werden, da eine arbeitsteilige, dezentralisierte Marktwirtschaft ohne ein 	allg. 	Anerkanntes 	Tauschmittel nicht funktionieren kˆnnte."
+	"`In seiner Eigenschaft als allg. Anerkanntes Tauschmittel muﬂ dem Geld indessen [ fehlte im Klassischen Modell] eine groﬂe Bedeutung zugemessen werden, da eine arbeitsteilige, dezentralisierte Marktwirtschaft ohne ein 	allg. 	Anerkanntes 	Tauschmittel nicht funktionieren kˆnnte."`
 	Klassisches Modell: Quantit‰tstheorie hat groﬂe Verbreitung erfahren -> Nationalˆkonomen
 S.49
 	Hayek kommt zum Schluss, dasss ‹berkapazit‰ten nur dann entstehen kˆnnen, wenn 	die Preise nicht mehr die Rolle als Knappheitsindikator erf¸llen kˆnnen.
-	Banken t‰uschen die Unternehmer durch F‰higkeit Kredite zu schˆpfen -> 	k¸nstliches "tief halten" der Kapitalmarktzinsen
+	Banken t‰uschen die Unternehmer durch F‰higkeit Kredite zu schˆpfen -> 	k¸nstliches "`tief halten"` der Kapitalmarktzinsen
 S.53
 	Die Klassiker haben die Wertaufbewahrungsfunktion des Geldes Vernachl‰ssigt, weil 	es der ˆkonomischen Rationalit‰t widerspreche
-	Gr¸nde, warum "Geld horten" doch rational ist:
+	Gr¸nde, warum "`Geld horten"` doch rational ist:
 	- schnelle Liquidit‰t
 	- geringes Risiko im Vergleich zu Totalverlust durch Kreditnehmer
 	- Partizipieren sinkender Kurse -> Kursverlust ¸berkompensiert entgangene 	Zinsgewinne
@@ -59,11 +59,11 @@ S.55
 	Starker R¸ckgang der Preise in der Weltwirtschaftskrise bewirkte, entgegen dem 	Gesetz der Elastizit‰t der Nachfrage, eben auch ein R¸ckgang der Nachfrage
 S.56
 	Geld wird zur¸ckgehalten -> Vermehrung des Geldes, wei lnicht in G¸ter getauscht 	wird -> trotzdem Anstieg der Arbeitslosigkeit
-	Keynes: "Durchaus rationales Verhalten"
+	Keynes: "`Durchaus rationales Verhalten"`
 S.57
-	Trotz Preis- und Zinssenkung kein Ankurbeln des Marktes, "Angst vor Produnktion" 	-> es muss auf der Absatzseite etwas ver‰ndert werden
+	Trotz Preis- und Zinssenkung kein Ankurbeln des Marktes, "`Angst vor Produnktion"` 	-> es muss auf der Absatzseite etwas ver‰ndert werden
 S.58
-	"Konjunktur in Schwung bringen" (Ertragsschenkel)
+	"`Konjunktur in Schwung bringen"` (Ertragsschenkel)
 S.60
 	Nochmal: Klassiker vermuten bei Senkung der Lˆhne eine belebende Wirkung auf 	Arbeitsmarkt.
 	In der Realit‰t trifft dies aber nur ein, wenn die Arbeitgeber steigende Lˆhne 	vermuten, wenn sie weiter fallende Lˆhne vermuten werden sie abwarten
@@ -73,20 +73,20 @@ S.66
 	Staat muss bei/nach Zusammenbruch privater Initiativen die Lenkung des 	wirtschaftlichen Geschehens ¸bernehmen und (Arbeitsschaffungsprogrammen) den 	Markt neu beleben
 	Auﬂerdem wichtig: Multiplikatoreffekte
 S.68
-	"Fˆhl hat in Erkennung dieses Kreislaufes die Wirkung einer Steuer als 	Konjunkturpolitisch neutral bezeichnet..."
+	"`Fˆhl hat in Erkennung dieses Kreislaufes die Wirkung einer Steuer als 	Konjunkturpolitisch neutral bezeichnet..."`
 S.69/70
 	Auflegen von Staatsanleihen: In Zeiten einer Krise sehen die Reformer sie als 	problematisch an, weil die die ihr Geld horten auch weiterhin ihr Geld horten 	werden und nur die die ohnehin bereit w‰ren ihr noch vorhandenes Geld zu 	investieren in Anleihen gehen werden -> somit entziehen die Anleihen zum Zwecke 	der Investitionen der freien Wirtschaft ihr Investitionspotential
 S.74
 	Hjalmar Schacht, erste Ansichten: Erbringung Arbeit -> damit Kapital -> daraus 	Geld
-	sp‰tere Erkenntnis: "Wir werden uns von dem Gedanken losmachen m¸ssen, dass eine 	Kapitalvermehrung nicht durch Geldschˆpfung erfolgen kˆnne"
+	sp‰tere Erkenntnis: "`Wir werden uns von dem Gedanken losmachen m¸ssen, dass eine 	Kapitalvermehrung nicht durch Geldschˆpfung erfolgen kˆnne"`
 	aus: mehr Arbeit -> mehr Kapital -> mehr Geld
 	wurde: mehr Geld -> mehr Kapital -> mehr Arbeit
-	Schumpeter: "... aber 'banking operations' kˆnnen eine Bereicherung des produktiven Apparats der Volkswirtschaft ermˆglichen. Sie bewirken eine Kaufkraftverschiebung unter den Individuen und wenn dieselbe unter dem 	Gesichtspunkt 	der Produktions ausdehnung erfolgt, eine ‹berweisung von 	Produktionsmitteln in die H‰nde dieser Individuen, denen sie mittels neugeschaffenen Geldes Kredit gew‰hren
+	Schumpeter: "`... aber 'banking operations' kˆnnen eine Bereicherung des produktiven Apparats der Volkswirtschaft ermˆglichen. Sie bewirken eine Kaufkraftverschiebung unter den Individuen und wenn dieselbe unter dem 	Gesichtspunkt 	der Produktions ausdehnung erfolgt, eine ‹berweisung von 	Produktionsmitteln in die H‰nde dieser Individuen, denen sie mittels neugeschaffenen Geldes Kredit gew‰hren
 S.76
 	Eine Abkopplung der Golddeckung ist Notwendig -> autonome Geldpolitik
 S.77
 	Gefordert wurde elastische Anpassung an Bed¸rfnisse der Wirtschaft ( und nicht 	leiten lassen vom Wahn des Goldes)
-	"der Fetisch-Glaube an seine (des Goldes) wirtschaftliche Bedeutung beengt heillos alle Handlungen"
+	"`der Fetisch-Glaube an seine (des Goldes) wirtschaftliche Bedeutung beengt heillos alle Handlungen"`
 S.79
 	4 Formen der Geldschˆpfung (Einspannen der Reichsbank in Vorfinanzierung)
 	Problem: Reichsbankgesetz Fassung 8.Juli 1926 ß 21 Ziffer 2...
@@ -104,7 +104,7 @@ S.81
 	- auﬂerdem kˆnnen die Gutscheine Gehandelt werden, was die Liquidit‰t der Unternehmen und Banken erhˆht
 S.82
 	3. Der Wagemann-Plan
-	- "Konsumentengeld" bis zur Hˆhe von 50 Mark aus der im Bankgesetz vorgesehenen 	Deckungspflicht herauszunehmen und durch verzinsliche ˆffentliche Schuld von 3 	Milliarden zu decken (bei Grˆﬂeren Noten bleibt die Deckung 	durch z.b. Gold 	bestehen) -> kleine Betr‰ge im Internationalen Zahlungsverkehr irrelevant
+	- "`Konsumentengeld"` bis zur Hˆhe von 50 Mark aus der im Bankgesetz vorgesehenen 	Deckungspflicht herauszunehmen und durch verzinsliche ˆffentliche Schuld von 3 	Milliarden zu decken (bei Grˆﬂeren Noten bleibt die Deckung 	durch z.b. Gold 	bestehen) -> kleine Betr‰ge im Internationalen Zahlungsverkehr irrelevant
 	- Hoffnung auf Entlastung der ˆffentlichen Hand, Banken und Sparkassen von den 	Eingefrohrenen Krediten der ˆffentliche Wirtschaft
 S.83
 	4. Finanzierung durch Arbeitsbeschaffungswechsel
@@ -112,16 +112,16 @@ S.83
 	- Erkl‰rung Anhand der Mefo-Wechsel:
 	Gr¸ndung der Akzeptbank AG Berlin, durch die Gew‰hrung eines Akzeptes dieser Bank bekamen Kreditinstitute einen Wechsel, welche diese bei der Reichsbank diskontieren konnte.
 S.86
-	Reichsbankpr‰sident Hans Luther: "Die Wirtschaft... schafft die Auftr‰ge, sie 	schafft das reale Leben, und die Aufgabe der W‰hrung ist, ... im Umfang des Vorliegens von Auftr‰gen, die nat¸rlich nicht k¸nstlich entstanden sind, die 	erforderlichen Kredite zur Verf¸gung zu stellen. Das grunds‰tzliche Abweichen von diesem Gedanken vollzieht sich nie in dem Sinne, daﬂ die Notenbank k¸nstlich zu wenig Zahlungsmittel g‰be... sondern..., dass die Notenbank zuviel 	Zahlungsmittel 	gibt, zuviel Kredit gibt, und das eben ist Inflation."
+	Reichsbankpr‰sident Hans Luther: "`Die Wirtschaft... schafft die Auftr‰ge, sie 	schafft das reale Leben, und die Aufgabe der W‰hrung ist, ... im Umfang des Vorliegens von Auftr‰gen, die nat¸rlich nicht k¸nstlich entstanden sind, die 	erforderlichen Kredite zur Verf¸gung zu stellen. Das grunds‰tzliche Abweichen von diesem Gedanken vollzieht sich nie in dem Sinne, daﬂ die Notenbank k¸nstlich zu wenig Zahlungsmittel g‰be... sondern..., dass die Notenbank zuviel 	Zahlungsmittel 	gibt, zuviel Kredit gibt, und das eben ist Inflation."`
 S.87
-	Erhard: "Kaufkraftschˆpfunf zum Zwecke der Arbeitsbeschaffung bedeutet zugleich Erzeugung zus‰tzlicher Nachfrage au dem Markte der genuﬂreifen Konsumg¸ter, der durch dieses Programm keinerlei mengenm‰ﬂige Ausweitung erfahren hat. 	Damit aber 	erf¸llt sich dem Wesen nach der Tatbestand der Inflation." (Erkenntnis 	klassischer Lehre)
-	These Herrmann: die Quantit‰tstheorie glaubt die Zahlungssmittel- und 	Wertaufbewahrungsfunktion von Geld trennen zu kˆnnen -> "nicht die Menge der Zahlungsmittel sondern ihre Verwendung ist somit entscheidend f¸r die Nachfrage 		am Warenmarkt und damit f¸r den an den Warenpreisen sich messenden Geldwert."
+	Erhard: "`Kaufkraftschˆpfunf zum Zwecke der Arbeitsbeschaffung bedeutet zugleich Erzeugung zus‰tzlicher Nachfrage au dem Markte der genuﬂreifen Konsumg¸ter, der durch dieses Programm keinerlei mengenm‰ﬂige Ausweitung erfahren hat. 	Damit aber 	erf¸llt sich dem Wesen nach der Tatbestand der Inflation."` (Erkenntnis 	klassischer Lehre)
+	These Herrmann: die Quantit‰tstheorie glaubt die Zahlungssmittel- und 	Wertaufbewahrungsfunktion von Geld trennen zu kˆnnen -> "`nicht die Menge der Zahlungsmittel sondern ihre Verwendung ist somit entscheidend f¸r die Nachfrage 		am Warenmarkt und damit f¸r den an den Warenpreisen sich messenden Geldwert."`
 S.9
 	Die Vorschl‰ge zum Arbeitsbeschaffungsprogramm zeigen unterschiede in den Ansichten der Reformer.
 	Eine Minderheit hat die Auffassung, dass der Staat seine Beeinflussung des Marktes beschr‰nken soll, lediglich unterst¸tzend wirken.
 	Die Mehrheit aber fordert den Staat auf als Auftraggeber f¸r z.B. 	Infrastrukturarbeiten aufzutreten bis diese Arbeiten von der Privatwirtschaft wieder selber ausf¸hrbar sind. (trotzdem Absage an Planwirtschaft)
 S.92
-	" aber Einbau eines planwirtschaftlichen Sektors zur Krisenhinderung"
+	"` aber Einbau eines planwirtschaftlichen Sektors zur Krisenhinderung"`
 	2 Programme zur indirekten Arbeitsbeschaffung:
 	-> 1.) Devalvation:
 	Grund¸bel: kumulierender Schrumpfungsprozess -> abwechselnde Lohn- und Preissenkung
@@ -151,7 +151,7 @@ S.98
 	4. Das Merkmal der Auﬂenwirtschaftlichen Absicherung
 	-> Durchf¸hrung der Arbeiten sollte mit Rohstoffen aus dem Inland erfolgen
 S.104
-	1932 Erschienen: "Arbeitsbeschaffung durch produktive Kreditschˆpfung" von Heinrich Dr‰ger
+	1932 Erschienen: "`Arbeitsbeschaffung durch produktive Kreditschˆpfung"` von Heinrich Dr‰ger
 	-> Notwendigkeit eines staatlichen Eingreifens => Reargrarisierung, d.h. Verhinderung der Abwanderung vom Land in die St‰dte
 S.105
 	Nutzen:
@@ -167,9 +167,9 @@ Bis S.110
 	Beschreibung der tats‰chlichen Ausf¸hrungen unter dem Hitlerregime (Reinhardt-	Programm)
 S.110
 	Zusammenfassung:
-	Der Kurs den Br¸ning in den Jahren der Weltwirtschaftskrise eingeschlagen hat war grˆﬂtenteils von der "klassischen VWL" gepr‰gt. Er war nicht geeignet aus der 	Depression herauszuf¸hren ( die Deflationspolitik versch‰rfte die 	Krisenerscheinung noch)
+	Der Kurs den Br¸ning in den Jahren der Weltwirtschaftskrise eingeschlagen hat war grˆﬂtenteils von der "`klassischen VWL"` gepr‰gt. Er war nicht geeignet aus der 	Depression herauszuf¸hren ( die Deflationspolitik versch‰rfte die 	Krisenerscheinung noch)
 S.111
-	Reformer versuchten mit gezeigten Argumenten den Anh‰ngern der "laissez-faire"-	Politik aufzuzeigen, dass ein staatlicher Eingriff notwendig ist
+	Reformer versuchten mit gezeigten Argumenten den Anh‰ngern der "`laissez-faire"`-	Politik aufzuzeigen, dass ein staatlicher Eingriff notwendig ist
 S.11
 	Br¸nings Deflationspolitik ( die er selber eventuell abschaffen wollte) war wohl in dem Wunsch der Herabsetzung der Reparationszahlungen weitergef¸hrt worden, indem Deutschland so arm wie mˆglich dargestellt werden sollte um den 	Gl‰ubigern zu zeigen, dass es unmˆglich ist die Mittel der Schuld aufbringen zu kˆnnen
 S.113
@@ -184,10 +184,10 @@ Keynes in der heutigen Wirtschaftstheorie
 S.135
 	Geschichte ¸ber Perikles: Grundaussage:
 	Seine teuren Bauwerke, das Partheon und die Propyl‰en, sollen f¸r langj‰hrigen 	Wohlstand w‰hrend der Bauphase sorgen.
-	Keynes trat f¸r diese Besch‰ftigung ein, aber 1931 k¸rzte die englische Regierung die Staatsausgaben um das Budged wieder "in Ordnung" zu bringen.
+	Keynes trat f¸r diese Besch‰ftigung ein, aber 1931 k¸rzte die englische Regierung die Staatsausgaben um das Budged wieder "`in Ordnung"` zu bringen.
 	Keynes Theorie schloss die L¸cke zwischen ˆkonomischer Theorie und Wirklichkeit.
 S.136
-	Es wird bei "klassische Theorie" kein Unterschied zwischen Klassik und Neoklassik gemacht
+	Es wird bei "`klassische Theorie"` kein Unterschied zwischen Klassik und Neoklassik gemacht
 	Die Klassik wird erkl‰rt von der Unsichtbaren Hand, die der Preismechanismus darstellt, ¸ber Angebot und Nachfrage, die in ein Gleichgewicht dr‰ngen.
 	Die daraus resultierende Frage ob das Gleichgewicht ein Optimum darstellt ist Gegenstand der Wohlfartstheorie und es wird nicht n‰her darauf eingegangen.
 	Krtik von Keynes: ob der Preismechanismus eine permanente Koordination 	betrieblicher Pl‰ne gew‰hrleistet.
@@ -207,7 +207,7 @@ S.140
 S.141
 	-> Wichtig ist die Existenz des Geldes, nicht seine Menge
 	A.C.Pigou hat Geld einen Schl¸ssel genannt und solange er ins Schloﬂ passt ist egal ob er aus viel oder wenig Metall ist
-	Say: "jedes Angebot schafft selbst die Nachfrage" (Anbieter wollen mit Erlˆs andere Sachen nachfragen)
+	Say: "`jedes Angebot schafft selbst die Nachfrage"` (Anbieter wollen mit Erlˆs andere Sachen nachfragen)
 	-> Trotzdem Weltwirtschaftskrise der dreiﬂiger -> Keynes Antwort
 S.142
 	Die effektive Nachfrage -> Schl¸ssel zur Arbeitslosigkeit: Analyse der 	gesamtwirtschaftlichen G¸ternachfrage:Produzenten besch‰ftigen Arbeitskr‰fte um Umfang derer sie zur Produktion benˆtigen und produzieren so viel wie sie glauben 	Nachfrage zu haben -> enger Zusammenhang: G¸ternachfrage <-> Besch‰ftigungsgrad
@@ -243,13 +243,13 @@ S.150
 S.151
 	Dieses System ist mir Unterbesch‰ftigung vereinbar
 S.152
-	 Statt einem "Systemgleichgewicht bei Unterbesch‰ftigung" kann man von einer Inkonsistenz im System sprechen
+	 Statt einem "`Systemgleichgewicht bei Unterbesch‰ftigung"` kann man von einer Inkonsistenz im System sprechen
 	Bedingung der Vollbesch‰ftigung im Arbeitsmarkt und Gleichgewicht auf dem Geldmarkt schlieﬂen sich aus
 	-> bestimmte G¸ternachfrage ist Engpaﬂfaktor der die Hˆhe der Besch‰ftigung limitiert
 	- Klassiker argumentieren mit Lohnflexibilit‰t bei Unterbesch‰ftigung
 	-Keynes entgegnet: in der Realit‰t keine erfolgsversprechende 	Besch‰ftigungspolitik
 S.154
-	Der Keynes-Effekt: nominelles Niveau der Lˆhne und Preise sinkt. Transaktionsbedarf geht zur¸ck. Wirtschaftssubjekte merken, dass sie mehr Kasse halten als ihnen  laut ihrer Vorstellung ¸ber den "Normal"-zins 		gerechtfertigt 	erscheint. Umschichtung auf Wertpapiere -> hˆhere Wertpapierkurse, niedriger Marktzins
+	Der Keynes-Effekt: nominelles Niveau der Lˆhne und Preise sinkt. Transaktionsbedarf geht zur¸ck. Wirtschaftssubjekte merken, dass sie mehr Kasse halten als ihnen  laut ihrer Vorstellung ¸ber den "`Normal"`-zins 		gerechtfertigt 	erscheint. Umschichtung auf Wertpapiere -> hˆhere Wertpapierkurse, niedriger Marktzins
 	-> Anreiz f¸r Investoren mehr Investitionsg¸ter nachzufragen und damit Einkommen, Konsum und Besch‰ftigung zu induzieren
 S.155
 	 Die unver‰nderliche Gleichgewichtsbedingung f¸r G¸termarkt l‰sst weder hohes 	Volkseinkommen mit hohen Zinsen zu noch ein niedriger Zins mit niedrigen Volkseinkommen, d.h. Bei Verschiebung der LM-Kurve, Verschiebung des 		Gleichgewichts auf der IS-Kurve
@@ -280,7 +280,7 @@ S.165
 	-> erst dann wird getauscht
 	Bei Ungleichgewicht passiert hier nichts, jedoch in der Realit‰t wird trotzdem getauscht
 S.166
-	"Neue" Mikroˆkonomie (ende der 60er Jahre)
+	"`Neue"` Mikroˆkonomie (ende der 60er Jahre)
 	-> neu, weil auf unvolst‰ndige Information eingegangen wird
 	Vorteilhaft f¸r Anbieter: Angebotspreis stabil halten, Variation der Angebotsmenge, d.h. Schwankung des Auslastungsgrades beim Kauf und Lagerhaltungskosten in Kauf nehmen
 	-> erkl‰rt, warum sich Preise im Ungleichgewicht so langsam anpassen ( wie die Klassiker jedoch annehmen)
@@ -296,9 +296,9 @@ S.170
 	-> neue Mikroˆkonomie zeigt dies auch an fehlender Information
 	-> Ungleichgewicht bleibt bestehen, bis Wirtschaftssubjekte sich an ver‰nderte Gleichgewichtsbedingungen gewˆhnen
 	-> trotz ungleichgewicht gehen die Transaktionen aber weiter
-	Hicks: "false trading" macht nicht viel aus
+	Hicks: "`false trading"` macht nicht viel aus
 S.171
-	Andere Sichtweise von "false trading": Clower und Patinkin
+	Andere Sichtweise von "`false trading"`: Clower und Patinkin
 	-> einige M‰rkte werden nicht mehr ger‰umt
 	-> die Anbieter dieser M‰rkte haben weniger Einkommen
 	-> das fehlende Einkommen welches als Budged f¸r andere M‰rkte eingesetzt werden soll f‰llt weg
@@ -309,7 +309,7 @@ S.172
 	->Anbieter w‰ren bereit zu den Preisen mehr anzubieten doch die Signale der Abnehmer deuten darauf hin, dass sie nicht mehr abnehmen werden
 	-> Auktionator kˆnnte diese Unwisssenheit durchbrechen => dies ist die erkl‰rte Aufgabe Keynes f¸r Stabilisierungspolitik
 S.173
-	" Die Diagnose sollte sich darum nicht auf den Markt beschr‰nken, wo die Symptome am deutlischten und schmerzlichsten manifestiert werden sondern auch in anderen Systembereichen nach Ursachen des Koordinationsversagens forschen" 	[54]
+	"` Die Diagnose sollte sich darum nicht auf den Markt beschr‰nken, wo die Symptome am deutlischten und schmerzlichsten manifestiert werden sondern auch in anderen Systembereichen nach Ursachen des Koordinationsversagens forschen"` 	[54]
 	Leijonhufvuds Vision vom Versagen des neoklassischen Zinsmechanismus -> Frontalangriff auf Keynes Gleichgewichtsdenken
 S.174
 	Keynes Angriff auf Klassische Zinstheorie:
@@ -348,7 +348,7 @@ S.182
 S.183
 	Friedmann stellt das Prinzip, dass sich Ausgaben nach dem Einkommen richten nicht in Frage, vielmehr nach welcher Grˆﬂenordnung das Prinzip sich richtet (Bsp. Wenn man 1x im Monat Gehalt bekommt gibt man ja nicht sofort alles 		aus, sondern verteilt seine Ausgaben bis zum n‰chsten Zahltag)
 S.185
-	"Die Dauereinkommenshypothese wirft dem Keynesianismus vor, aufgrund einer zu groﬂen Beschreibung des privaten Ausgabeverhaltens sowohl die Notwendigkeit als auch die Wirkungschancen der fiskalischen Besch‰ftigungspolitik zu 		¸bersch‰tzen"
+	"`Die Dauereinkommenshypothese wirft dem Keynesianismus vor, aufgrund einer zu groﬂen Beschreibung des privaten Ausgabeverhaltens sowohl die Notwendigkeit als auch die Wirkungschancen der fiskalischen Besch‰ftigungspolitik zu 		¸bersch‰tzen"`
 	Multiplikator Keynes entspricht der Umlaufgeschwindigkeit des Geldes (monetarismus)
 S.186
 	Langfristiger Trend bei konstanter Geldmenge: Zunahme Umlaufgeschwindikeit -> aber Umlaufgeschwindigkeit hat S‰kular abgenommen

@@ -1,0 +1,19 @@
+\select@language {ngerman}
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Einleitung}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Benennung der Fragestellung}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Beschreibung des eigenen Verst{\"a}ndnis von Geldpolitik}{6}{subsection.1.2}
+\contentsline {section}{\numberline {2}Technisches System}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Institutionen}{7}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Ziel}{7}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Instrumente}{7}{subsection.2.3}
+\contentsline {section}{\numberline {3}Einblick in die Grundgedanken der {\"O}konomen des 19. und 20. Jahrhunderts}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}{\"U}bersicht der zu behandelnden Str{\"o}mungen und Begr{\"u}ndung der Auswahl}{8}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Einblick in die Grundgedanken der Keynsianischen Schule}{8}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Einblick in die Grundgedanken der {\"O}stereichischen Schule (Hayek)}{8}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Kommentar zu Friedman}{9}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Auseinandersetzung mit Keynes}{9}{subsubsection.3.3.2}
+\contentsline {subsection}{\numberline {3.4}Einblick in die Grundgedanken der Monetaristen (Milton Friedman)}{10}{subsection.3.4}
+\contentsline {section}{\numberline {4}Case Study}{11}{section.4}
+\contentsline {section}{\numberline {5}Abk{\"u}rzungsverzeichnis}{12}{section.5}
+\contentsline {section}{\numberline {6}Literaturverzeichnis}{13}{section.6}
