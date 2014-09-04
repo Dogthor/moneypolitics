@@ -59,8 +59,7 @@ Basseler2010, S.
 Basseler2010, S.
 
 ## 18. Geldpolitik der Europäischen Zentralbank
-\citep[vgl.][S.]{Basseler2010}
-Basseler2010, S.551: "`Geldpolitik hat die Aufgabe, eine optimale Geldversorgung der Wirtschaft zu gewährleisten. Diese Aufgabe wird überwiegend einer staatlich organisierten, aber unabhägigen Zentralbank zugewiesen. Vereinzelt gemachte Vorschläge, die Aufgabe der Geldversorgung einem Wettbewerb privater Geschäftsbanken zu überlassen, die ein System konkurrierender Parallelwährung schaffen sollten, haben sich bislang nicht durchgesetzt. Geldpolitik bleibt staatliche Aufgabe.
+\citep[vgl.][S.551]{Basseler2010} "`Geldpolitik hat die Aufgabe, eine optimale Geldversorgung der Wirtschaft zu gewährleisten. Diese Aufgabe wird überwiegend einer staatlich organisierten, aber unabhägigen Zentralbank zugewiesen. Vereinzelt gemachte Vorschläge, die Aufgabe der Geldversorgung einem Wettbewerb privater Geschäftsbanken zu überlassen, die ein System konkurrierender Parallelwährung schaffen sollten, haben sich bislang nicht durchgesetzt. Geldpolitik bleibt staatliche Aufgabe.
 Unstrittig ist das Ziel der Geldpolitik: die Wahrung der Geldwertstabilität. Strittig ist nur, ob dies das einzige Ziel der Geldpolitik sein soll.
 In monetaristischer Sicht hat die Geldpolitik nur das Ziel, für Geldwertstabilität zu sorgen. Andere Ziele anzustreben, sei einerseits nicht notwendig, weil das marktwirtschaftliche System an sich zur Vollbeschäftigung tendiere, und andererseits nicht möglich, weill die Geldmenge auch nur ein Einfluss auf das Preisniveau ausübe.
 In keynesianischer Sicht erhält die Geldpolitik mindestens eine weitere Hilfsfunktion, nämlich die antizyklische Fiskalpolitik in Rezessionsphasen durch eine Niedrigzinspolitik und in Boomphasen durch eine Hochzinspolitik zu unterstützen."`
@@ -77,23 +76,20 @@ Basseler2010, S.552: "`Konsequenterweise fordern die Monetaristen eine Geldmenge
 
 
 ## 18.2. Die Europäische Zentralbank und das Europäische System der Zentralbanken
-\citep[vgl.][S.552]{Basseler2010}  "`Das Europäische System der Zentralbanken (ESZB) setzt sich zusammen aus der Europäischen zentralbank (EZB) und allen 27 nationalen Zentralbanken (NZBen) der der Mitgliedstaaten der EU. Die nationalen Zentralbanken jener Mitgliedstaaten, die den Euro noch nicht eingeführt haben, (...) haben einen Sonderstatus: Sie sind nicht am Entscheidungsfindungsprozess der ESZB beteiligt und führen eine eigenständige nationale Geldpolitik."`
-
+\citep[vgl.][S.552]{Basseler2010}  "`Das Europäische System der Zentralbanken (ESZB) setzt sich zusammen aus der Europäischen Zentralbank (EZB) und allen 27 nationalen Zentralbanken (NZBen) der der Mitgliedstaaten der EU. Die nationalen Zentralbanken jener Mitgliedstaaten, die den Euro noch nicht eingeführt haben, (...) haben einen Sonderstatus: Sie sind nicht am Entscheidungsfindungsprozess der ESZB beteiligt und führen eine eigenständige nationale Geldpolitik."`
 
 
 
 ## 18.2.2. Ziele und Aufgaben von ESZB und EZB
-\citep[vgl.][S.]{Basseler2010}
-Basseler2010, S.554: "`Das **zentrale** Ziel des ESZB ist in Art. 105, Abs. 1 EGV formuliert:
+\citep[vgl.][S.554]{Basseler2010} "`Das **zentrale** Ziel des ESZB ist in Art. 105, Abs. 1 EGV formuliert:
 >>(1) Das vorrangige Ziel des ESZB ist es, die Preisstabilität zu gewährleisten. Soweit dies ohne Beeinträchtigung des Zieles der Preisstabilität möglich ist, unterstützt das ESZB die allgemeine Wirtschaftspolitik der Gemeinschaft(...). Diese Zielvorstellung (...) entspricht dem gegenwärtig vorherrschenden Theorie- und Politikverständnis, dass eine Zentralbank in erster Linie für Preisstabilität sorgen soll und allenfals subsidiär auch andere Ziele wie Vollbeschäftigung und Wachstum anstreben soll. Diese Formulierung entspricht auch weitgehend der früher für die Deutsche Bundesbank geltenden Zielvorschrift. "`
 
-\citep[vgl.][S.]{Basseler2010}
-Basseler2010, S.555: "`Die grundlegenden Aufgaben der ESZB bestehen nach Art. 105, Abs. 2 EVG (...)darin:
+\citep[vgl.][S.555]{Basseler2010} "`Die grundlegenden Aufgaben der ESZB bestehen nach Art. 105, Abs. 2 EVG (...)darin:
 - die Geldpolitik der Gemeinschaft festzulegen und auszuführen, Devisengeschäfte im Einklangt mit Artikel 111 durchzuführen,
 - die offiziellen Währungsreserven der Mitgliedstaaten zu halten und zu verwalten,
 - das reibungslose Funktionieren der Zahlungssysteme zu fördern."`
 
-\citep[vgl.][S.]{Basseler2010}
-Basseler2010, S.555:  Art. 111 EVG "`Hier ist festgelegt, dass die Entscheidung über Wechselkurssysteme (...) und die Entscheidung über die Höhe der Wechselkurse im Falle der Festlegung auf grundsätzlich feste Wechselkurse beim Ministerrat liegt. Die EZB kann mithin nur im vorgegebenen Rahmen am Devisenmarkt agieren. (...) Das Halten von Währungsreserven gehört zu den genuinen Aufgaben einer Zentralbank. "`
+\citep[vgl.][S.555]{Basseler2010}
+  Art. 111 EVG "`Hier ist festgelegt, dass die Entscheidung über Wechselkurssysteme (...) und die Entscheidung über die Höhe der Wechselkurse im Falle der Festlegung auf grundsätzlich feste Wechselkurse beim Ministerrat liegt. Die EZB kann mithin nur im vorgegebenen Rahmen am Devisenmarkt agieren. (...) Das Halten von Währungsreserven gehört zu den genuinen Aufgaben einer Zentralbank. "`
 
 ## 18.2.3. Die Unabhängigkeit der EZB
