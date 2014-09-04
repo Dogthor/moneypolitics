@@ -43,8 +43,8 @@ Wertstabilität der Währung: \citep[vgl.][S.32]{Hayek1977}: "`Wettbewerb würde
 
 
 
-\citep[vgl.][S.]{Hayek1977}: "`"`
+\citep[vgl.][S.48]{Hayek1977}: Das Handeln der Emmissionsbanken würde durch die Berichterstattung der Presse kontrolliert werden
 
-\citep[vgl.][S.]{Hayek1977}: "`"`
+\citep[vgl.][S.52]{Hayek1977}: "`"`Hayek hofft auf eine Prinzipientreue, statt verbindliche Regeln zu fordern
 
 \citep[vgl.][S.]{Hayek1977}: "`"`
