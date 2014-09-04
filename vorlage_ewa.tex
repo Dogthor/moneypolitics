@@ -1,92 +1,92 @@
 \documentclass[
-onecolumn,
-a4paper,
-abstracton,
-parskip=half
-%,draft
-,final
-]{scrartcl}
+        onecolumn,
+        a4paper,
+        abstracton,
+        parskip=half
+        %,draft
+        ,final
+        ]{scrartcl}
 
-\usepackage[pdftex
-,draft
-]{graphicx}
+        \usepackage[pdftex
+        ,draft
+        ]{graphicx}
 
-\usepackage{booktabs}
+        \usepackage{booktabs}
 
-\usepackage[cmex10]{amsmath}
+        \usepackage[cmex10]{amsmath}
 
-\interdisplaylinepenalty=2500
-\usepackage{url}
+        \interdisplaylinepenalty=2500
+        \usepackage{url}
 
-\usepackage[breaklinks]{hyperref}
-\hyphenation{nothing} % correct bad hyphenation here
+        \usepackage[breaklinks]{hyperref}
+        \hyphenation{nothing} % correct bad hyphenation here
 
-\usepackage{eurosym}
+        \usepackage{eurosym}
 
-\usepackage{listings}
-\lstset{basicstyle=\small\ttfamily,breaklines=true}
-\emergencystretch 1000pt
+        \usepackage{listings}
+        \lstset{basicstyle=\small\ttfamily,breaklines=true}
+        \emergencystretch 1000pt
 
-\usepackage{subcaption}
+        \usepackage{subcaption}
 
-\usepackage{mathtools}
+        \usepackage{mathtools}
 
-% deutsche Silbentrennung
-\usepackage[ngerman]{babel}
+        % deutsche Silbentrennung
+        \usepackage[ngerman]{babel}
 
-\usepackage[printonlyused, withpage]{acronym}
+        \usepackage[printonlyused, withpage]{acronym}
 
-\usepackage[a4paper]{geometry}
+        \usepackage[a4paper]{geometry}
 
-% wegen deutschen Umlauten
-\usepackage[ansinew]{inputenc}
+        % wegen deutschen Umlauten
+        \usepackage[ansinew]{inputenc}
 
-% fuer Zitate
-\usepackage[round]{natbib}
+        % fuer Zitate
+        \usepackage[round]{natbib}
 
-\usepackage{setspace}
-\usepackage{tabulary}
-\usepackage{units}
-\usepackage{cite}
-%%% Deutsche Verzeichnis-ueberschriften
+        \usepackage{setspace}
+        \usepackage{tabulary}
+        \usepackage{units}
+        \usepackage{cite}
+        %%% Deutsche Verzeichnis-ueberschriften
 
-\renewcommand{\contentsname}{Inhalt}
-\renewcommand{\listtablename}{Tabellenverzeichnis}
-\renewcommand{\listfigurename}{Abbildungsverzeichnis}
+        \renewcommand{\contentsname}{Inhalt}
+        \renewcommand{\listtablename}{Tabellenverzeichnis}
+        \renewcommand{\listfigurename}{Abbildungsverzeichnis}
 
-%%% Kommentarfunktion %%%
-\usepackage[textwidth=2.2cm
-,obeyFinal
-]{todonotes}
-
+        %%% Kommentarfunktion %%%
+        \usepackage[textwidth=2.2cm
+        ,obeyFinal
+        ]{todonotes}
 
 \begin{document}
 
 %%%%%% CREATING THE TITLE %%%%%
 \titlehead{
-\centering
-\includegraphics[width = 0.3\textwidth ]{logo_wip.jpg} \\
-\small Technische Universit{\"a}t Berlin \\
-Fakult{\"a}t VII (Wirtschaft \& Management) \\
-Fachgebiet Wirtschafts- und Infrastrukturpolitik (WIP)
-}
-\title{Geldpolitische Str{\"o}mungen und Instrumente}
-%\subtitle{Untertitel}
-\author{
-Gregor May
-\footnotesize \textit{(Matr: 357150)}
-\and
-Marius Hanniske
-\footnotesize \textit{(Matr: 311263)}
-}
+          \centering
+          \includegraphics[width = 0.3\textwidth ]{logo_wip.jpg} \\
+          \small Technische Universit{\"a}t Berlin \\
+          Fakult{\"a}t VII (Wirtschaft \& Management) \\
+          Fachgebiet Wirtschafts- und Infrastrukturpolitik (WIP)
+          }
+          \title{Geldpolitische Str{\"o}mungen und Instrumente}
+          %\subtitle{Untertitel}
+          \author{
+          Gregor May
+          \footnotesize \textit{(Matr: 357150)}
+          \and
+          Marius Hanniske
+          \footnotesize \textit{(Matr: 311263)}
+          }
 
-\date{\today}
+          \date{\today}
 
-\maketitle
+          \maketitle
 
 %%%% ABSTRACT %%%%%
 
 \selectlanguage{ngerman}
+
 \begin{abstract}
 ZUSAMMENFASSUNG
 \ldots
@@ -94,99 +94,90 @@ ZUSAMMENFASSUNG
 \end{abstract}
 
 
-\begin{flushleft}
-%\nointend \textbf{JEL Codes:} C61, H54, L94 \\
-%\nointend \textbf{Keywords:} Money, Money Politics, Econimics
-\end{flushleft}
+  \begin{flushleft}
+  %\nointend \textbf{JEL Codes:} C61, H54, L94 \\
+  %\nointend \textbf{Keywords:} Money, Money Politics, Econimics
+  \end{flushleft}
 
-\tableofcontents
-\listoffigures
-\listoftables
+    \tableofcontents
+    \listoffigures
+    \listoftables
 
-\newpage
-\onehalfspacing
+    \newpage
+    \onehalfspacing
 
-%%%%% TEXTK{\"O}RPER %%%%%
+  %%%%% TEXTK{\"O}RPER %%%%%
 
 \section{Einleitung}
-\label{sec1:einleitung}
+    \label{sec1:einleitung}
 
-Es war Einmal...
-Das Leben des 1671 in Schottland geborenen John Law liest sich wie ein M{\"a}rchen \citep[vgl.][Kap. 2]{strathern2006schumpeters}. Ein Draufg{\"a}nger im Kasino und mit den Frauen. In England zum Tode verurteilt, weil er als Sieger aus einem Duell hervorging, floh er nach Europa und bekam in den dortigen Kasinos und der fortschrittlicheren Finanzpolitik anderer L{\"a}nder, wie z.B. die Niederlande \footnote[2]{Belebung der Schifffart dank Windm{\"u}hlen, erster B{\"o}rsencrash auf dem TulpenmarktText} ein f{\"u}r diese Zeit, neues Verst{\"a}ndnis von Geld: "Ungenutztes Geld war nichts - nichts als das Potential f{\"u}r Aktion." \citep[vgl.][Kap. 2]{strathern2006schumpeters}Law erkannte rasch, dass mehr Bargeld zu mehr Handelsaktivit{\"a}t f{\"u}hrt und unterbreitete seine Ideen u.a. in Schottland und Turin. Die Staaten k{\"o}nnen Noten auf sich selbst ausstellen,d.h. Kredite gew{\"a}hren im Tausch mit der F{\"a}higkeit, in Zukunft Geld aufzubringen, mit Hilfe von Steuern. Dieses Geld wird in England noch heute fiat money [4] genannt und ist heute in Europa und auch den USA\footnote[5]{"In God we trust" steht u.a. auf der 1-Dollar-Note und Gottesvertrauen braucht man auch} gel{\"a}ufig.
+    Es war Einmal\ldots
+    Das Leben des 1671 in Schottland geborenen John Law liest sich wie ein M{\"a}rchen \citep[vgl.][Kap. 2]{strathern2006schumpeters}. Ein Draufg{\"a}nger im Kasino und mit den Frauen. In England zum Tode verurteilt, weil er als Sieger aus einem Duell hervorging, floh er nach Europa und bekam in den dortigen Kasinos und der fortschrittlicheren Finanzpolitik anderer L{\"a}nder, wie z.B. die Niederlande \footnote[2]{Belebung der Schifffart dank Windm{\"u}hlen, erster B{\"o}rsencrash auf dem TulpenmarktText} ein f{\"u}r diese Zeit, neues Verst{\"a}ndnis von Geld: "Ungenutztes Geld war nichts - nichts als das Potential f{\"u}r Aktion." \citep[vgl.][Kap. 2]{strathern2006schumpeters}Law erkannte rasch, dass mehr Bargeld zu mehr Handelsaktivit{\"a}t f{\"u}hrt und unterbreitete seine Ideen u.a. in Schottland und Turin. Die Staaten k{\"o}nnen Noten auf sich selbst ausstellen,d.h. Kredite gew{\"a}hren im Tausch mit der F{\"a}higkeit, in Zukunft Geld aufzubringen, mit Hilfe von Steuern. Dieses Geld wird in England noch heute fiat money [4] genannt und ist heute in Europa und auch den USA\footnote[5]{"In God we trust" steht u.a. auf der 1-Dollar-Note und Gottesvertrauen braucht man auch} gel{\"a}ufig.
 
-Durch Freunde bekam Law Kontakt zum Regenten von Frankreich\footnote[6]{Philippe , Herzog von OrlÈans, nachdem der Sonnenk{\"o}nig Ludwig 14. 1715 starb}, der ihm vollstes Vertrauen entgegen brachte. Die franz{\"o}sische Staatskasse, die zu der Zeit 3 milliarden Livres \footnote[7]{Livre frz.: Pfund war vom 9. bis zum 18. Jh. die franz{\"o}sische W{\"a}hrung, 1795 abgel{\"o}st vom Franc} an Schulden angeh{\"a}uft hat, ben{\"o}tigte neue Ideen und Law war der Mann der sie hatte. Er gr{\"u}ndete 1716 die Banque National, die erste Bank Frankreichs, ausgestattet mit 6 Millionen Livres Aktienkapital. Bareinzahlungen waren in Form von M{\"u}nzen auf Konten m{\"o}glich, auch {\"U}berweisungen durch Schecks auf andere Konten. Was aber neu und besonders war stellte "raison d'etre" \footnote[8]{gedeckt durch die 6 Millionen Aktienkapital, Versprechen(!) auf Auszahlung, allerdings Barreserven von 350 tausend Livres} dar, d.h. die Ausgabe von Papiergeld. Das war die grandiose Idee und sie funktionierte. Die Leute hatten mehr Geld zur Verf{\"u}gung und gaben es auch aus, die G{\"u}ternachfrage stieg an und damit auch die G{\"u}terproduktion. Und einen weiteren Plan setzte Law um, die Gr{\"u}ndung der Mississippi-Gesellschaft. Philippe {\"u}bereignete ihm dazu Louisana und mit der Ausgabe von Aktien sollte damit eine Expedition \footnote[9]{ebenda} finanziert werden. Law und seine Familie bewegten sich in den h{\"o}chsten Kreisen, ja befanden sich f{\"o}rmlich an der Spitze, der High Societie. Der p{\"a}bstliche Nimbus, der bewegt war zur Geburtstagsfeier von Laws Tochter eingeladen zu sein, gab der Tochter einen Kuss und ihr {\"a}lterer Bruder ging mit Ludwig 15. jagen. Wenn das wirklich ein M{\"a}rchen gewesen w{\"a}re w{\"u}rde es jetzt mit den Worten: "... und wenn sie nicht gestorben sind, Leben sie noch Heute", enden. Doch es war wie schon erw{\"a}hnt kein M{\"a}rchen und das SystemË, wie Law es nannte, brach in sich zusammen. Die Gewinne wurden nicht wie versprochen f{\"u}r eine Expedition ausgegeben, sondern zur Begleichung der imensen Staatsschuld. Bei einer Abwertung der Noten verloren die Menschen endg{\"u}ltig das Vertrauen in diese.
-Wie schon erw{\"a}hnt funktioniert die heutige Geldpolitik wie bei dem von Law durchgef{\"u}hrten Feldexperiment, doch Sicherheitsmechanismen verhindern meist eine derartige Eskalation.
-Wir befassen uns in dieser Hausarbeit mit der Ausarbeitung dieser Sicherheitsmechanismen durch verschiedene Denkans{\"a}tze, Funktionen die die Instabilit{\"a}t des Systems vertr{\"a}glicher f{\"u}r seine Benutzer gemacht haben. Dabei gehen wir auf die Denkanst{\"o}{\ss}e der Str{\"o}mungen des Keynesianismus, der Monetaristen und der Gruppe der neuen politischen  {\"O}konomie, der {\"O}sterreichischen Schule ein.
-
-
+    Durch Freunde bekam Law Kontakt zum Regenten von Frankreich\footnote[6]{Philippe , Herzog von OrlÈans, nachdem der Sonnenk{\"o}nig Ludwig 14. 1715 starb}, der ihm vollstes Vertrauen entgegen brachte. Die franz{\"o}sische Staatskasse, die zu der Zeit 3 milliarden Livres \footnote[7]{Livre frz.: Pfund war vom 9. bis zum 18. Jh. die franz{\"o}sische W{\"a}hrung, 1795 abgel{\"o}st vom Franc} an Schulden angeh{\"a}uft hat, ben{\"o}tigte neue Ideen und Law war der Mann der sie hatte. Er gr{\"u}ndete 1716 die Banque National, die erste Bank Frankreichs, ausgestattet mit 6 Millionen Livres Aktienkapital. Bareinzahlungen waren in Form von M{\"u}nzen auf Konten m{\"o}glich, auch {\"U}berweisungen durch Schecks auf andere Konten. Was aber neu und besonders war stellte "raison d'etre" \footnote[8]{gedeckt durch die 6 Millionen Aktienkapital, Versprechen(!) auf Auszahlung, allerdings Barreserven von 350 tausend Livres} dar, d.h. die Ausgabe von Papiergeld. Das war die grandiose Idee und sie funktionierte. Die Leute hatten mehr Geld zur Verf{\"u}gung und gaben es auch aus, die G{\"u}ternachfrage stieg an und damit auch die G{\"u}terproduktion. Und einen weiteren Plan setzte Law um, die Gr{\"u}ndung der Mississippi-Gesellschaft. Philippe {\"u}bereignete ihm dazu Louisana und mit der Ausgabe von Aktien sollte damit eine Expedition \footnote[9]{ebenda} finanziert werden. Law und seine Familie bewegten sich in den h{\"o}chsten Kreisen, ja befanden sich f{\"o}rmlich an der Spitze, der High Societie. Der p{\"a}bstliche Nimbus, der bewegt war zur Geburtstagsfeier von Laws Tochter eingeladen zu sein, gab der Tochter einen Kuss und ihr {\"a}lterer Bruder ging mit Ludwig 15. jagen. Wenn das wirklich ein M{\"a}rchen gewesen w{\"a}re w{\"u}rde es jetzt mit den Worten: "\ldots und wenn sie nicht gestorben sind, Leben sie noch Heute", enden. Doch es war wie schon erw{\"a}hnt kein M{\"a}rchen und das SystemË, wie Law es nannte, brach in sich zusammen. Die Gewinne wurden nicht wie versprochen f{\"u}r eine Expedition ausgegeben, sondern zur Begleichung der imensen Staatsschuld. Bei einer Abwertung der Noten verloren die Menschen endg{\"u}ltig das Vertrauen in diese.
+    Wie schon erw{\"a}hnt funktioniert die heutige Geldpolitik wie bei dem von Law durchgef{\"u}hrten Feldexperiment, doch Sicherheitsmechanismen verhindern meist eine derartige Eskalation.
+    Wir befassen uns in dieser Hausarbeit mit der Ausarbeitung dieser Sicherheitsmechanismen durch verschiedene Denkans{\"a}tze, Funktionen die die Instabilit{\"a}t des Systems vertr{\"a}glicher f{\"u}r seine Benutzer gemacht haben. Dabei gehen wir auf die Denkanst{\"o}{\ss}e der Str{\"o}mungen des Keynesianismus, der Monetaristen und der Gruppe der neuen politischen  {\"O}konomie, der {\"O}sterreichischen Schule ein.
 
 
 \subsection{Benennung der Fragestellung}
 
--> Einblick in die Grundgedanken der {\"O}konomen des 19.und 20.Jahrhunderts
+    -> Einblick in die Grundgedanken der {\"O}konomen des 19.und 20.Jahrhunderts
 
-...Doch am Anfang steht die Forschung. Dabei sind zwei Motive herausgearbeitet \footnote[9]{der Keynesianismus 1},
-die die Triebfedern der wissenschaftlichen Forschung darstellen:
-1.) die Neugierde nach Wissen {\"u}ber die Welt, sie ist eine regelm{\"a}{\ss}ige Motivation zur
- Forschung, wie auch John Law versucht hat seine Ideen umzusetzen um Herauszufinden
- ob sie funktionieren.
-Eine 2.) unabh{\"a}ngig davon treibende Kraft ist die Unvollst{\"a}ndige Information, die
-daf{\"u}r sorgt, dass die Menschen nur eine vage oder gar keine Kenntnis von der Zukunft
-besitzen. Die Angst der Menschen vor dem Unbekannten veranlasst sie dazu diese
-Unkenntnis zu beseitigen. Dieser Drang zur Ver{\"a}nderung der Situation schwindet jedoch,
-wenn die Zukunft vielversprechend aussieht.
-Nicht zu vernachl{\"a}ssigen sind die M{\"o}glichkeiten einer Ver{\"a}nderung, als Reaktion auf
-die entt{\"a}uschenden Ergebnisse wissenschaftlicher Theorien. Was tun, wenn sich eine
-Diskrepanz zwischen der Theorie und Realit{\"a}t aufzeigt? Die erste M{\"o}glichekeit:
-Evolution -> Anpassung der Theorie an die Realit{\"a}t. Schwierig, wenn die Theorie fest
-gefahren ist und auf Probleme mit den immer gleichen Argumentationen antworten will.
-Dann bleibt nur die zweite M{\"o}glichkeit der Revolution -> bei der eine v{\"o}llig neue
-Konstruktion der Analytik angefertigt wird, die die Realit{\"a}t besser wiedergibt als ihre
-Vorg{\"a}ngertheorie...
-(Nicht zu vergessen das Falsifizierbarkeitskriterium: Wiederlegung einer Theorie hat ein
-st{\"a}rkeres Gewicht als ihre Best{\"a}tigun)
-Verdeutlichen wir uns das mal an den {\"o}konomischen Theorien des 19. und 20. Jahrhunderts,
-den Klassiker und Neoklassikern.
-Auf Kr{\"a}fte des freien Marktes berufen sich die Klassiker\footnote[10]{in dem Fall sind Klassiker und Neoklassiker zusammengefasst}, den Anfang machte dabei
- Adam Smith mit seinem 1776 ver{\"o}ffentlichten Werk "Wohlstand der Nationen".
-"Die freie Marktwirtschaft wird erkl{\"a}rt von einer Unsichtbaren Hand, die der
-Preismechanismus darstellt, {\"u}ber Angebot und Nachfrage, die in ein Gleichgewicht dr{\"a}ngen,..."
+    \ldots Doch am Anfang steht die Forschung. Dabei sind zwei Motive herausgearbeitet \footnote[9]{der Keynesianismus 1},
+    die die Triebfedern der wissenschaftlichen Forschung darstellen:
+    1.) die Neugierde nach Wissen {\"u}ber die Welt, sie ist eine regelm{\"a}{\ss}ige Motivation zur Forschung, wie auch John Law versucht hat seine Ideen umzusetzen um Herauszufinden
+     ob sie funktionieren. Eine 2.) unabh{\"a}ngig davon treibende Kraft ist die Unvollst{\"a}ndige Information, die daf{\"u}r sorgt, dass die Menschen nur eine vage oder gar keine Kenntnis von der Zukunft besitzen. Die Angst der Menschen vor dem Unbekannten veranlasst sie dazu diese Unkenntnis zu beseitigen. Dieser Drang zur Ver{\"a}nderung der Situation schwindet jedoch, wenn die Zukunft vielversprechend aussieht.
 
-Sie unterstellen den Individuen ein rationales Verhalten (homo oeconomicus), aus einer
- Vielzahl von Angeboten das Beste herauszufiltern. Preise dienen dazu die Angebote
-unterscheiden und sortieren zu k{\"o}nnen... mit diesen Argumentationen  (der Realpreise...[Die
-Preise von G{\"u}tern kommen nie unabh{\"a}ngig von Preisen anderer G¸ter zustande])befassten sich
-vornehmlich die Neoklassiker. Die Preise wiederrum k{\"o}nnen bequemer zugeteilt,
-identifiziert und bewertet werden wenn sie eine (be)rechenbare Einheit erhalten.
-Diese Einheit, ob es nun US-Ameriaknische Dollar, Japanische Yen oder Europ{\"a}ische Euro
-sind, stellt das Geld ganz allgemein dar.( um nicht auf Zuf{\"a}lle hoffen zu m{\"u}ssen, dass
-ausgerechnet ein B{\"a}cker 2000 Br{\"o}tchen ben{\"o}tigt um die gegen einen neuen Fernseher eintauschen zu k{\"o}nnen [anm. ich habe irgentwo ein sch{\"o}nes Zitat zu dem Problem, ich find es blo{\ss} gerade nicht])
+    Nicht zu vernachl{\"a}ssigen sind die M{\"o}glichkeiten einer Ver{\"a}nderung, als Reaktion auf
+    die entt{\"a}uschenden Ergebnisse wissenschaftlicher Theorien. Was tun, wenn sich eine
+    Diskrepanz zwischen der Theorie und Realit{\"a}t aufzeigt? Die erste M{\"o}glichekeit:
+    Evolution -> Anpassung der Theorie an die Realit{\"a}t. Schwierig, wenn die Theorie fest
+    gefahren ist und auf Probleme mit den immer gleichen Argumentationen antworten will.
+    Dann bleibt nur die zweite M{\"o}glichkeit der Revolution -> bei der eine v{\"o}llig neue
+    Konstruktion der Analytik angefertigt wird, die die Realit{\"a}t besser wiedergibt als ihre
+    Vorg{\"a}ngertheorie\ldots
+    (Nicht zu vergessen das Falsifizierbarkeitskriterium: Wiederlegung einer Theorie hat ein
+    st{\"a}rkeres Gewicht als ihre Best{\"a}tigun)
+    Verdeutlichen wir uns das mal an den {\"o}konomischen Theorien des 19. und 20. Jahrhunderts,
+    den Klassiker und Neoklassikern.
+    Auf Kr{\"a}fte des freien Marktes berufen sich die Klassiker\footnote[10]{in dem Fall sind Klassiker und Neoklassiker zusammengefasst}, den Anfang machte dabei
+     Adam Smith mit seinem 1776 ver{\"o}ffentlichten Werk "`Wohlstand der Nationen"'.
+    "`Die freie Marktwirtschaft wird erkl{\"a}rt von einer Unsichtbaren Hand, die der
+    Preismechanismus darstellt, {\"u}ber Angebot und Nachfrage, die in ein Gleichgewicht dr{\"a}ngen,\ldots"'
 
-...
+    Sie unterstellen den Individuen ein rationales Verhalten (homo oeconomicus), aus einer
+     Vielzahl von Angeboten das Beste herauszufiltern. Preise dienen dazu die Angebote
+    unterscheiden und sortieren zu k{\"o}nnen\ldots mit diesen Argumentationen  (der Realpreise\ldots[Die
+    Preise von G{\"u}tern kommen nie unabh{\"a}ngig von Preisen anderer G{\"u}ter zustande])befassten sich
+    vornehmlich die Neoklassiker. Die Preise wiederrum k{\"o}nnen bequemer zugeteilt,
+    identifiziert und bewertet werden wenn sie eine (be)rechenbare Einheit erhalten.
+    Diese Einheit, ob es nun US-Ameriaknische Dollar, Japanische Yen oder Europ{\"a}ische Euro
+    sind, stellt das Geld ganz allgemein dar.( um nicht auf Zuf{\"a}lle hoffen zu m{\"u}ssen, dass
+    ausgerechnet ein B{\"a}cker 2000 Br{\"o}tchen ben{\"o}tigt um die gegen einen neuen Fernseher eintauschen zu k{\"o}nnen [anm. ich habe irgentwo ein sch{\"o}nes Zitat zu dem Problem, ich find es blo{\ss} gerade nicht])
 
-- Fragestellung ob der Staat eine Rolle einnimmt? -> definitiv nicht Aktiv,
-[aber hei{\ss}t passiv nicht, dass er sich schon einmischt, blo{\ss} so, dass es keiner Mitbekommt?]
-- Die Mittel zur Steuerung sind ganz klar sich nicht einzumischen, laissez faire,
-[die Unsichtbare Hand wird es schon richten]
+    \ldots
+
+    - Fragestellung ob der Staat eine Rolle einnimmt? -> definitiv nicht Aktiv,
+    [aber hei{\ss}t passiv nicht, dass er sich schon einmischt, blo{\ss} so, dass es keiner Mitbekommt?]
+    - Die Mittel zur Steuerung sind ganz klar sich nicht einzumischen, laissez faire,
+    [die Unsichtbare Hand wird es schon richten]
 
 
-- Sind diese Mittel kontr{\"a}r zur derzeitigen Geldpolitik?
-heutige Situation: staatliches Eingreifen notwendig, weil sonst Unterversorgung bestimmter
-G{\"u}ter durch privat Angebot. Au{\ss}erdem: Staat hat Sorge zu tragen, f{\"u}r jedes Mitglied der
-Gesellschaft keine Nachteile durch marktwirtschaftliche Vorg{\"a}nge entstehen zu lassen -> daraus
-w{\"u}rden sonst Spannungen zwischen den sozialen Schichten entstehen, daraus folgt ein
-Auseinanderbrechen des sozial Systems. "`... seit Entwicklung der Keynesianischen VWL besteht,
-..., {\"U}bereinstimmung hinsichtlich der Auffassung, dass zum Zwecke einer Nivellierung der
-konjunkturellen Schwankungen eine aktive staatliche Wirtschaftspolitik nicht nur f{\"o}rderlich,
- sondern auch erforderliche ist."'
+    - Sind diese Mittel kontr{\"a}r zur derzeitigen Geldpolitik?
+    heutige Situation: staatliches Eingreifen notwendig, weil sonst Unterversorgung bestimmter
+    G{\"u}ter durch privat Angebot. Au{\ss}erdem: Staat hat Sorge zu tragen, f{\"u}r jedes Mitglied der
+    Gesellschaft keine Nachteile durch marktwirtschaftliche Vorg{\"a}nge entstehen zu lassen -> daraus
+    w{\"u}rden sonst Spannungen zwischen den sozialen Schichten entstehen, daraus folgt ein
+    Auseinanderbrechen des sozial Systems. "`\ldots seit Entwicklung der Keynesianischen VWL besteht,
+    \ldots, {\"U}bereinstimmung hinsichtlich der Auffassung, dass zum Zwecke einer Nivellierung der
+    konjunkturellen Schwankungen eine aktive staatliche Wirtschaftspolitik nicht nur f{\"o}rderlich,
+     sondern auch erforderliche ist."'
 
-...
+    \ldots
 
-(Dabei vernachl{\"a}ssigen die Klassiker bewusst eine Wertaufbewahrungsfuktion des Geldes, weil es
-der {\"o}konomischen Rationalit{\"a}t wiederspricht)[ -> da kommt dann schon Keynes ins Spiel, deswegen
-den Absatz ganz zum Schluss]
-
-
+    (Dabei vernachl{\"a}ssigen die Klassiker bewusst eine Wertaufbewahrungsfuktion des Geldes, weil es
+    der {\"o}konomischen Rationalit{\"a}t wiederspricht)[ -> da kommt dann schon Keynes ins Spiel, deswegen
+    den Absatz ganz zum Schluss]
 
 \subsection{Beschreibung des eigenen Verst{\"a}ndnis von Geldpolitik}
 
@@ -194,13 +185,6 @@ den Absatz ganz zum Schluss]
 
 \section{Technisches System}
 \label{sec2:technischesSystem}
-TEXT TEXT TEXT
-\subsection{Institutionen} Von Ba{\ss}eler
-\subsection{Ziel}  Von Ba{\ss}eler
-\subsection{Instrumente}  Von Ba{\ss}eler
-
-Die Europ{\"a}ische Geldpolitik wird durch das \ac{ESZB} und die \ac{EZB} organisiert, wobei sich die \ac{ESZB} aus der \acf{EZB} und allen 27 nationalen Zentralbanken (NZBen) der Mitgliedsstaaten der \ac{EU} organisiert. Sonderstatus haben dabei die sogenannten >>Outs<<, jene Mitgliederstaaten der \ac{EU}, die den Euro noch nicht eingef{\"u}hrt haben. Dies sind Derzeit: D{\"a}nemark, Gro{\ss}-britanien, Schweden sowie die meisten neuen \acs{EU}-Mitgliedsstaaten nach 2001. Sie sind vom Entscheidungsprozess der \acs{ESZB} ausgeschlossen und vollziehen eine eigenst{\"a}ndige nationale Geldpolitik. Auch wenn der \acs{EG}-Vertrag (EGV, Art. 105-109 d) formal zwischen \ac{EZB} und \ac{ESZB} unterscheidet, entscheidet doch faktisch nur eine Institution, die der \ac{EZB} mit ihren Beschlussorganen (EZB-Rat und Direktorium der \ac{EZB}.) (Vergleiche
-
 
 
 \clearpage
@@ -210,8 +194,8 @@ Die Europ{\"a}ische Geldpolitik wird durch das \ac{ESZB} und die \ac{EZB} organi
 
 
 \section{Einblick in die Grundgedanken der {\"O}konomen des 19. und 20. Jahrhunderts}
-\label{sec3:stroemungen}
-TEXT TEXT TEXT
+  \label{sec3:stroemungen}
+  TEXT TEXT TEXT
 
 
 \subsection{{\"U}bersicht der zu behandelnden Str{\"o}mungen und Begr{\"u}ndung der Auswahl}
@@ -230,7 +214,7 @@ Jedoch macht Hayek das zugest{\"a}ndnis, dass es \citep[vgl.][S.23]{Hayek1977}: 
 
 
 
-\citep[vgl.][S.40f]{Hayek1977}: "`Wenn wir von unterschiedlichen Geldarten sprechen, denken wir an unterschiedlich bezeichnete Einheiten, die in ihrem relativen Wert zueinander schwanken k{\"o}nnen. (...)Ich hielt es immer f{\"u}r n{\"u}tzlich, (...) dass es f{\"u}r die Erkl{\"a}rung monet{\"a}rer Ph{\"a}nomene viel hilfreicher w{\"a}re, wenn ?��Geld?�� als Adjektiv eine Eigenschaft beschriebe, die unterschiedliche Dinge (...)besitzen k{\"o}nnen. `Umlaufmittel' ist aus diesem Grund passender, da Dinge in unterschiedlichem ma{\ss} in verschiedenen Regionen oder Bev{\"o}lkerungsgruppen `in Umlauf sein' k{\"o}nnen."`
+\citep[vgl.][S.40f]{Hayek1977}: "`Wenn wir von unterschiedlichen Geldarten sprechen, denken wir an unterschiedlich bezeichnete Einheiten, die in ihrem relativen Wert zueinander schwanken k{\"o}nnen. (\ldots)Ich hielt es immer f{\"u}r n{\"u}tzlich, (\ldots) dass es f{\"u}r die Erkl{\"a}rung monet{\"a}rer Ph{\"a}nomene viel hilfreicher w{\"a}re, wenn ?��Geld?�� als Adjektiv eine Eigenschaft beschriebe, die unterschiedliche Dinge (\ldots)besitzen k{\"o}nnen. `Umlaufmittel' ist aus diesem Grund passender, da Dinge in unterschiedlichem ma{\ss} in verschiedenen Regionen oder Bev{\"o}lkerungsgruppen `in Umlauf sein' k{\"o}nnen."`
 
 \citep[vgl.][S.43]{Hayek1977}: "`Zitat fehlt"
 
@@ -245,13 +229,6 @@ Zur genaueren Beschreibung seines Systems, soll Hayek selbst zu Wort kommen: \ci
 \subsubsection{Kommentar zu Friedman}
 
 \subsubsection{Auseinandersetzung mit Keynes}
-Gerade eine Kritik an Keynes "General Theorie" zu schreiben, wollte Hayek nicht mehr machen, denn \citep[vgl.][S.91]{Hayek1969}: "`ZITAT FEHLT"
-
-\citep[vgl.][S.93]{Hayek1969}: "`Es ist leicht zu sehen, wie die Anschauung, nach der eine zus{\"a}tzliche Geldsch{\"o}pfung zur Erzeugung einer entsprechenden G{\"u}termenge f{\"u}hren wird, zu einem Wiederaufleben der eher naiven inflationistischen Trugschl{\"u}sse f{\"u}hren musste(...). Ich habe wenig Zweifel, dass wir die Nachkriegsinflation zum Gro{\ss}teil dem starken Einfluss eines solchen {\"u}bervereinfachten Keynsianismus verdanken."`
-
-und weiter kommentiert Hayek die "`General Theorie"' wie folgt:
-\citep[vgl.][S.96]{Hayek1969}: "`Ich wage vorauszusagen, dass wenn diese Frage der Methode einmal entschieden ist, die "`Keynessche Revolution"' als eine Episode erscheinen wird, in der irrt{\"u}mliche Auffassungen {\"u}ber die geeignete wissenschaftliche Methode zu einem zeitweiligen Vergessen vieler wichtiger Einsichten f{\"u}hrten, die wir schon gewonnen hatten und die wir dann m{\"u}hevoll wiedergewinnen m{\"u}ssen."`
-
 
 
 
@@ -282,16 +259,6 @@ Milton Friedman \footnote[16]{Geboren: 31. Juli 1912 in Brooklyn, New York City;
 \label{sec4:CaseStudy}
 Ein Instrument herausgreifen, bzw. eine Instrumentendiskussion f{\"u}hren.
 
-\subsection{}
-\subsection{}
-\subsection{}
-
-
-
-
-
-
-
 
 
 
@@ -305,10 +272,11 @@ Ein Instrument herausgreifen, bzw. eine Instrumentendiskussion f{\"u}hren.
 
 
  	\acro{EG}{Europ{\"a}ische Gemeinschaft}
-	\acro{ESZB}{Europ{\"a}isches System der Zentralbanken}
-  	\acro{EU}{Europ{\"a}ische Union}
+	\acro{EGV}{Europ{\"a}ische Gemeinschaftsverträge}
+  \acro{ESZB}{Europ{\"a}isches System der Zentralbanken}
+  \acro{EU}{Europ{\"a}ische Union}
 	\acro{EZB}{Europ{\"a}ische Zentralbank}
- 	 \acrodefplural{EZB}{Europ{\"a}ische Zentralbanken}
+ 	\acrodefplural{EZB}{Europ{\"a}ische Zentralbanken}
 
 
 
@@ -317,17 +285,16 @@ Ein Instrument herausgreifen, bzw. eine Instrumentendiskussion f{\"u}hren.
 %%%% LITERATURE %%%%%
 \vspace{10pt}
 	\newpage
-\singlespacing
+  \singlespacing
 
 % Literaturliste endgueltig anzeigen
 	         %\bibliographystyle{diss_fk}
 \bibliographystyle{authordate1}
 
 \section{Literaturverzeichnis}
-\label{sec6:Literaturverzeichnis}
-\bibliography{literatur_EWA}	% Sie benoetigen eine *.bib-Datei
-
-\newpage
+  \label{sec6:Literaturverzeichnis}
+  \bibliography{literatur_EWA}	% Sie benoetigen eine *.bib-Datei
+  \newpage
 
 
 

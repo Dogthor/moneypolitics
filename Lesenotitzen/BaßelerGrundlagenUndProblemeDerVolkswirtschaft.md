@@ -13,7 +13,7 @@
 
 
 
-\citep[vgl.][S. 507]{Basseler2010, : "`Zentrale Zielgröße der Geldpolitik ist die Geldmenge M3. (...) Dabei ist zu beachten, dass das herkömmliche Konzept von Banken zum Konzept der Montären Finanzinstitute (MFIs) erweitert worden ist."`
+\citep[vgl.][S. 507]{Basseler2010} : "`Zentrale Zielgröße der Geldpolitik ist die Geldmenge M3. (...) Dabei ist zu beachten, dass das herkömmliche Konzept von Banken zum Konzept der Montären Finanzinstitute (MFIs) erweitert worden ist."`
 
 \citep[vgl.][S.508]{Basseler2010} "`MFIs sind also im Wesentlichen:
 - Zentralbanken,
