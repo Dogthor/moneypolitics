@@ -1,0 +1,136 @@
+\documentclass[
+    onecolumn,
+    a4paper,
+    abstracton,
+    parskip=half
+    %,draft
+    ,final
+    ]{scrartcl}
+
+    \usepackage[pdftex
+    ,draft
+    ]{graphicx}
+
+    \usepackage{booktabs}
+
+    \usepackage[cmex10]{amsmath}
+
+    \interdisplaylinepenalty=2500
+    \usepackage{url}
+
+    \usepackage[breaklinks]{hyperref}
+    \hyphenation{nothing} % correct bad hyphenation here
+
+    \usepackage{eurosym}
+
+    \usepackage{listings}
+    \lstset{basicstyle=\small\ttfamily,breaklines=true}
+    \emergencystretch 1000pt
+
+    \usepackage{subcaption}
+
+    \usepackage{mathtools}
+
+    % deutsche Silbentrennung
+    \usepackage[ngerman]{babel}
+
+    \usepackage[printonlyused, withpage]{acronym}
+
+    \usepackage[a4paper]{geometry}
+
+    % wegen deutschen Umlauten
+    \usepackage[ansinew]{inputenc}
+
+    % fuer Zitate
+    \usepackage[round]{natbib}
+
+    \usepackage{setspace}
+
+    \usepackage{units}
+    \usepackage{cite}
+    %%% Deutsche Verzeichnis-ueberschriften
+
+
+
+    %%% Kommentarfunktion %%%
+    \usepackage[textwidth=2.2cm
+    ,obeyFinal
+    ]{todonotes}
+
+\begin{document}
+
+@Book{hayek1971,
+ author = {Hayek, Friedrich},
+ title = {Die Verfassung der Freiheit},
+ publisher = {Mohr},
+ year = {1971},
+ address = {Tübingen},
+ isbn = {3-16-531891-3}
+ }
+ ------------
+\citep[vgl.][S.]{hayek1971die}: "`"`
+------------
+
+\citep[vgl.][S.288]{hayek1971die}: "`Die wichtigste Funktion dieser Art ist die Einf{\"u}hrung eines verl{\"a}sslichen und funktionsf{\"a}higen Geldsystems."`
+
+\citep[vgl.][S.290]{hayek1971die}: "`Sicherlich sollte sie in engen Grenzen gehalten werden; es kann eine wirkliche Gefahr f{\"u}r die Freiheit werden, wenn ein zu gro{"s}er Teil der Wirtschaftst{\"a}tigkeit direkt in die H{\"o}nde des Staates ger{\"a}t. Doch was hier abzulehnen ist, ist nicht das Staatsunternehmen als solches, sondern das Staatsmonopol.
+(...) Ein freies System schlie{"s}t ferner nicht prinzipiell alle jene allgemeinen Regelungen der Wirtschaftst{\"a}tigkeit aus, die in der Form allgemeiner Regeln niedergelegt werden k{\"o}nnen, die die Bedingungen n{\"a}her bezeichnen, denen jeder, der eine bestimmte T{\"a}tigkeit aus{\"u}bt, gen{\"u}gen muss. Sie schlie{"s}en im besonderen alle Regelungen bez{\"u}glich der Produktionstechnik ein. Wir befassen uns hier nicht mit der Frage, ob solche Regelungen klug sein werden -  was sie wahrscheinlich nur in au{"s}ergew{\"o}hnlichen F{\"a}llen sind. Sie werden immer den Umfang des Experimentierens einschr{\"a}nken und damit eine m{\"o}glicherweise n{\"u}tzliche Entwicklung hemmen."`
+
+\citep[vgl.][S.291]{hayek1971die}: "`Die Vernichtung des Viehbestandes eines Bauern, um die Ausbreitung einer Seuche zu verhindern, das Niederrei{"s}en von H{\"a}usern, um die Ausbreitung eines Feuers zu verh{\"u}ten(...) oder die Durchsetzung von Sicherheitsvorschriften in Geb{\"a}uden verlangen zweifellos, dass den Beh{\"o}rden ein gewisses Ermessen in der Anwendung allgemeiner Regeln zugestanden wird. Aber das muss nicht ein Ermessen sein, das nicht durch allgemeine Regeln beschr{\"a}nkt ist oder von der richterlichen {\"u}berpr{\"u}fung ausgenommen werden muss."`
+
+\citep[vgl.][S.336]{hayek1971die}: "`Der einzige allgemeine Grundsatz, der bez{\"u}glich der Subventionen aufgestellt werden kann, ist wahrscheinlich, dass sie nie durch das Interesse des unmittelbaren Empf{\"a}ngers gerechtfertigt werden k{\"o}nnen (ob das nun der die subventionierte Leistung bietende oder die sie konsumierende ist), sondern nur durch die allgemeinen Vorteile, die alle B{\"u}rger genie{"s}en k{\"o}nnen -  das hei{"s}t, durch das Gemeinwohl im wahren Sinne."`
+
+\citep[vgl.][S.409]{hayek1971die}: "`Die Regierungen haben in der Handhabung der W{\"a}hrung eine viel aktivere Rolle {\"u}bernommen und das war ebensosehr die Ursache wie die Folge der Instabilit{\"a}t."`
+
+\citep[vgl.][S.409]{hayek1971die}: "`Wenn die Regierungen nie eingegriffen h{\"a}tten, h{\"a}tte sich vielleicht irgend ein W{\"a}hrungssystem entwickelt, dass keine beweusste Steuerung gebraucht h{\"a}tte; insbesondere, wenn die Menschen nicht angefangen h{\"a}tten, in so weitem Ma{"s}e Kreditmittel als Geld oder Geldersatz zu verwenden, h{\"a}tten wir uns vielleicht auf einen sich selbst regulierenden Mechanismus verlassen k{\"o}nnen."`
+
+\citep[vgl.][S.410]{hayek1971die}: "`��die historische Entwicklung hat Bedingungen geschaffen, in denen das Bestehen dieser Institutionen [Kreditinstitute] eine bewusste Lenkung der miteinander verwobenen Geld- und Kreditsysteme notwendig macht."'��
+
+\citep[vgl.][S.410]{hayek1971die}: "`Die Folge davon [Dass Geld nicht zum Verbrauch, sondern zur Weitergabe dient] ist, dass die Wirkung einer Ver{\"a}nderung im Geldangebot (oder in der Nachfrage nach Geld) nicht unmittelbar zu einem neuen Gleichgewicht f{\"u}hren."`
+
+\citep[vgl.][S.411]{hayek1971die}: "`Jede Ver{\"a}nderung [der Geldmenge] wird eine Aufeinanderfolge von {\"a}nderungen der ihnen zugrundeliegenden realen Faktoren entsprechen und daher {\"a}nderungen in Preisen und Produktion verursachen wird, die das Gleichgewicht zwischen Nachfrage und Angebot st{\"o}ren."`
+
+\citep[vgl.][S.411]{hayek1971die}: "`Aus diesem Gunde wirken Ver{\"a}nderungen des Geldangebots besonders st{\"o}rend und das Geldangebot, wie es heute verstanden wird, {\"a}ndert sich auch besonders leicht in sch{\"a}dlicher Weise. Wichtig ist, dass das Ma{"s}, in dem Geld ausgegeben wird, nicht fluktuieren sollte."`
+
+\citep[vgl.][S.412]{hayek1971die}: Liquide "`Die bekannte Tatsache, dass, wenn jedermann liquider sein will, auch die Banken aus den gleichen Gr{\"u}nden liquider sein wollen und daher weniger Kredit zur Verf{\"u}gung stellen, ist nur ein beispiel einer allgemeinen Tendenz, die den meisten Formen des Kredits eigen ist."`
+
+\citep[vgl.][S.412]{hayek1971die}: Unabh{\"a}ngigkeitsforderung "`Es gibt starke und wahrscheinlich immernoch g{\"u}ltige Gr{\"u}nde, die es w{\"u}nschenswert machen, dass diese Institutionen [Zentralbanken] von der Regierung und ihrer Finanzpolitik so weit wie m{\"o}glich unabh{\"a}ngig sind."`
+
+\citep[vgl.][S.413]{hayek1971die}: "`(...)eine wirksame Geldpolitik [kann] nur in Koordination mit der Finanzpolitik der Regierung durchgef{\"u}hrt werden."`
+
+\citep[vgl.][S.413]{hayek1971die}: Bedingung "`Im Augenblick ist das Wesentliche, dass, solange die Staatausgaben einen so gro{"s}en Teil des Volkseinkommens ausmachen, wie heute {\"u}berall, wir es hinnehmen m{\"u}ssen, dass die Regierung unvermeidlich die W{\"a}hrungspolitik beherrscht und das der einzige Weg, das zu {\"a}ndern, eine starke Einschr{\"a}nkng der Staatsausgaben w{\"a}re."`
+
+\citep[vgl.][S.413]{hayek1971die}: "`{\"u}berall und zu allen Zeiten waren die Regierungen die Hauptursache der Geldentwertung. (...) die gr{\"o}{"s}eren Inflationen der Vergangenheit [waren] die Folge davon, dass die Regierungen (...){\"u}berm{\"a}{"s}ige Mengen an Papiergeld ausgaben."`
+
+\citep[vgl.][S.416]{hayek1971die}: "`Versuche, jede, ein gr{\"o}{"s}eres Wirtschaftsgebiet betreffende Deflation zu vermeiden, zu allgemeiner Inflation f{\"u}hren m{\"u}ssen."`
+
+
+
+%%%%%%%%%%
+\citep[vgl.][S.416]{hayek1971die}:Spricht sich f{\"u}r Regelungen aus: "`Man braucht gegen eine Ma{"s}nahme, deren unangenehme Wirkung sofort und stark gesp{\"u}rt werden, keine Vorsichtsma{"s}regeln zu treffen; aber Vorsichtsma{"s}regeln sind notwendig, wo eine Ma{"s}nahme, due unmittelbar angenehm ist oder momentane Schwierigkeiten erleichter, einen viel gr{\"o}{"s}eren Schaden mit sich bringt, der sich erst sp{\"a}ter f{\"u}hlbar macht."`
+
+
+
+
+\citep[vgl.][S.418]{hayek1971die}: Begr{\"u}ndung f{\"u}r Preisstabilit{\"a}t "`Realkosten, Gewinne oder Einkommen w{\"u}rden [sonst] bald durch keine der herk{\"o}mmlichen oder allgemein annehmbaren Methoden mehr feststellbar sein."`
+
+\citep[vgl.][S.419]{hayek1971die}: "`Diese {\"u}berlegungen scheinen nahezulegen, dass im Ganzen gesehen eine mechanische Regel, die auf das langfristige W{\"u}nschenswerte gerichtet ist und den Beh{\"o}rden in kurzfristige Entscheidungen die H{\"a}nde bindet, wahrscheinlich eine bessere W{\"a}hrungspolitik ergeben wird als Prinzipien, die den Beh{\"o}rden mehr Macht und Ermessen einr{\"a}umen und sie damit sowohl dem politischen Druck st{\"a}rker aussetzen als auch ihrer eigenen Neigung, die Dringlichkeit der augenblicklichen Umst{\"a}nde zu {\"u}bersch{\"a}tzen."`
+
+\citep[vgl.][S.420]{hayek1971die}: "`Es sollte vielleicht ausdr{\"u}cklich festgehalten werden, dass das Argument gegen Ermessensvollmachten in der W{\"a}hrungspolitik nicht dasselbe ist wie das gegen Ermessensmacht bei der Aus{\"u}bung der Zwangsgewalt der Regierung. "`
+
+\citep[vgl.][S.420]{hayek1971die}: Anforderung "`(...)dass die W{\"a}hrungspolitik m{\"o}glichst voraussagbar sein [soll]"`
+
+\citep[vgl.][S.421]{hayek1971die}: "`Das hei{"s}t jedoch nicht, dass eine Wiedereinf{\"u}hrung [des Goldstandarts] gegenw{\"a}rtig ein praktikabler Vorschlag ist."`
+
+\citep[vgl.][S.421]{hayek1971die}: "`Nichts w{\"u}rde wahrscheinlich mehr zur internationalen W{\"a}hrungsstabilit{\"a}t beitragen, als wenn die verschiedenen L{\"a}nder sich gegenseitig vertraglich binden w{\"u}rden, dem freien Handel in ihren W{\"a}hrungen keinerlei Hindernis in den Weg zu stellen."`
+
+\citep[vgl.][S.422]{hayek1971die}: "`Es gibt ein grundlegendes Dilemma, dem alle Notenbanken gegen{\"u}berstehen und das es unvermeidlich macht, dass ihre Politik mit weitem Ermessen vermunden sein muss(...:) Ihre Macht beruht haupts{\"a}chlich auf der Drohung, kein Bargeld zur Verf{\"u}gung zu stellen, wenn es gebraucht wird."`
+
+\citep[vgl.][S.422]{hayek1971die}: "`(...)die Ma{"s}nahmen zur Einwirkung auf Preise und Besch{\"a}figung (...) m{\"u}ssen (...)darauf gerichtet sein, Ver{\"a}nderungen [an diesen] zuvorzukommen, bevor sie eintreten, als sie zu korrigieren, nachdem sie eingetreten sind."`
+
+\citep[vgl.][S.423]{hayek1971die}: "`(...) unter den heutigen Bedingungen (haben) wir kaum eine Wahl (...), als die W{\"a}hrungspolitik dazdurch zu beschr{\"a}nken, dass ihr die Ziele und nicht spezielle Ma{"s}nahmen vorgeschrieben werden."`
+
+\citep[vgl.][S.423]{hayek1971die}: "`In der Praxis kommt es wahrscheinlich nicht so sehr darauf an, wie dieses Preisniveau definiert ist, au{"s}er, dass es sich nicht ausschlie{"s}lich auf Endprodukte beziehen soll(...)"`
+
+
+\end{document}

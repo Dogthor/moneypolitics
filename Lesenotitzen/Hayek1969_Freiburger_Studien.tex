@@ -1,0 +1,101 @@
+\documentclass[
+    onecolumn,
+    a4paper,
+    abstracton,
+    parskip=half
+    %,draft
+    ,final
+    ]{scrartcl}
+
+    \usepackage[pdftex
+    ,draft
+    ]{graphicx}
+
+    \usepackage{booktabs}
+
+    \usepackage[cmex10]{amsmath}
+
+    \interdisplaylinepenalty=2500
+    \usepackage{url}
+
+    \usepackage[breaklinks]{hyperref}
+    \hyphenation{nothing} % correct bad hyphenation here
+
+    \usepackage{eurosym}
+
+    \usepackage{listings}
+    \lstset{basicstyle=\small\ttfamily,breaklines=true}
+    \emergencystretch 1000pt
+
+    \usepackage{subcaption}
+
+    \usepackage{mathtools}
+
+    % deutsche Silbentrennung
+    \usepackage[ngerman]{babel}
+
+    \usepackage[printonlyused, withpage]{acronym}
+
+    \usepackage[a4paper]{geometry}
+
+    % wegen deutschen Umlauten
+    \usepackage[ansinew]{inputenc}
+
+    % fuer Zitate
+    \usepackage[round]{natbib}
+
+    \usepackage{setspace}
+
+    \usepackage{units}
+    \usepackage{cite}
+    %%% Deutsche Verzeichnis-ueberschriften
+
+
+
+    %%% Kommentarfunktion %%%
+    \usepackage[textwidth=2.2cm
+    ,obeyFinal
+    ]{todonotes}
+
+\begin{document}
+
+
+@book{Hayek1969,
+  Author = {Friedrich August von Hayek},
+  Date-Added = {2014-08-28 15:29:16 +0000},
+  Date-Modified = {2014-08-28 15:31:17 +0000},
+  Publisher = {J. C. B. Mohr (Paul Siebeck)},
+  Rating = {1},
+  Read = {0},
+  Title = {Freiburger Studien},
+  address = {T{\"`u}bingen},
+  Year = {1969}}
+
+--------
+  \citep[vgl.][S.]{Hayek1969}: "`"`
+  --------
+
+F{\"u}r die Case-Study vielleicht?
+\citep[vgl.][S.13]{Hayek1969}: "`Das bedeutet auch, dass wir oft allgemein auf Grund von Annahmen handeln m{\"u}ssen, die zwar in der Regel, aber nicht immer zutreffen: zum Beispiel wurden alle Ausnahmen von der Regel, dass freier internationaler Handel beiden Teilen Vorteil bringt, von {\"u}berzeugten Freih{\"a}ndlern entdeckt; doch hinderte dies nicht, konsequente Freih{\"a}ndler zu bleiben, weil sie gleichzeitig erkannten, dass es kaum je m{\"o}glich ist, das Bestehen jener ungew{\"o}hnlichen Umst{\"a}nde festzustellen, die eine Ausnahme rechtfertigen w{\"u}rden. Vielleicht noch bemerkenswerter ist der Fall des vor wenigen Jahren verstorbenen englischen {\"o}konomen A.C.Pigou, des eigentlichen Begr{\"u}nders der Theorie der Wohlfahrts{\"o}konomie; am Ende eines langes Lebens, das fast ausschlie{"s}lich der Aufgabe gewidmet war, die Umst{\"a}nde herauszuarbeiten, unter denen Staatseingriffe die Ergebnisse des Marktes verbessern k{\"o}nnten, musste er zugeben, dass der Wert dieser theoretischen {\"u}berlegungen zweifelhaft sei, da wir nur selten feststellen k{\"o}nnen, ob die besonderen von der Theorie angenommenen Umst{\"a}nde auch wirklich vorliegen. Nicht, weil er so viel wei{"s}, sondern weil er wei{"s}, wieviel er wissen m{\"u}sste, um erfolgreiche Eingriffe durchzuf{\"u}hren, und weil er wei{"s}, dass er alle diese relevanten Umst{\"a}nde nie kennen kann, sollte sich der National{\"o}konom zur{\"u}ckhalten, einzelne Eingriffe selbst dort zu empfehlen, wo die Theorie zeigt, dass sie manchmal wohlt{\"a}tig sein k{\"o}nnten."`
+
+\citep[vgl.][S.15]{Hayek1969}: "`Es ist wohl Aufgabe des Schulunterrichts, zu zeigen, wie man Tatsachen feststellt und interpretiert, aber Tatsachenkenntnis ist an sich noch nicht Wissenschaft, und die Tatsachenerkenntnisse, die Sie einmal brauchen werden, um Ihre wissenschaftlichen Kenntnisse anzuwenden, werden Sie immer wieder "`��on the job"'�� lernen m{\"u}ssen. Verst{\"a}ndnis der Theorie muss der haupts{\"a}chlichste Gewinn sein, den Sie aus dem Hochschulstudium ziehen, und ist der einzige Gewinn, den Sie *nur* aus dem Hochschulstudium ziehen k{\"o}nnen."`
+
+\citep[vgl.][S.19]{Hayek1969}: Aus "`��Alte Wahrheiten und neue Irrt{\"u}mer��"': "`Die immer wiederkehrende Aufgabe der Widerlegung dieser Vorstellungen [derer von L.M.Keynes, A.d. Autor] liegt uns daher neuerlich ob. Die wesentlichen Zusammenh{\"a}nge sind dabei im Grund sehr einfach, aber in allen ihren praktischen Verwicklungen doch oft schwer zu {\"u}berblicken.
+Der Ausgangspunkt muss nat{\"u}rlich sein, dass eine Bildung von Realkapital stets voraussetzt, dass wir mehr produzieren, als wir konsumieren."`
+
+\citep[vgl.][S.22]{Hayek1969}: "`Dass es grunds{\"a}tzlich m{\"o}glich ist (...) in einer Marktwirtschaft, dass der Staat die Verantwortung f{\"u}r die Kapitalbildung und ihre Lenkung {\"u}bernimmt, ist unbestreitbar. Aber ist es auch zweckm{\"a}{"s}ig und w{\"u}nschenswert? Und insbesondere ist es zu erwarten, dass sich in einem solchen System die Marktwirtschaft auch dauernd erh{\"a}lt?"`
+
+F{\"u}r die Case Study:
+\citep[vgl.][S.23f]{Hayek1969}: "`Ist das alte, liberale Prinzip “Lasst das Kapital in den H{\"a}nden der einzelnen Fr{\"u}chte tragen” immernoch der richtige Leitsatz, oder ist wirklich der Staat kompetenter zu entscheiden, wo und in welcher Form das verf{\"u}gbare Kapital am zweckm{\"a}{"s}igsten zu verwenden ist?
+Es ist heute eine verbreitete Anschauung, dass zwar eine vollst{\"a}ndige Planwirtschaft unwirtschaftlich und politisch gef{\"a}hrlich abzulehnen ist, aber der Staat doch die Investitionst{\"a}tigkeit lenken und dirigieren muss. Als ob es sich bei den Entscheidungen {\"u}ber Umfang und Richtung der Investitionen um ein Sondergebiet handelte und nicht um das Herzst{\"u}ck einer Marktwirtschaft, mit der ihr Funktionieren steht und f{\"a}llt. Wenn es {\"u}berhaupt {\"u}berzeugende Argumente zugunsten einer Wettbewerbswirtschaft gibt, die es w{\"u}nschenswert machen, dass die Entscheidungen den einzelnen Unternehmen {\"u}berlassen werden, dann gelten sie vor allem auch f{\"u}r die Investitionsentscheidungen. Jeder Versuch, zwar den laufenden Betrieb vom Wettbewerb bestimmen zu lassen, aber die gro{"s}en Entscheidungen {\"u}ber die Vorsorge f{\"u}r die Zukunft einer zentralen Planungsbeh{\"o}rde zu {\"u}bertragen, muss langfristig zu einer vollst{\"a}ndigen Planwirtschaft f{\"u}hren."`
+
+\citep[vgl.][S.31]{Hayek1969}: "`Gewiss ist es, um es zu wiederholen, bei dem Grad von Wohlstand, den heute der Westen erreicht hat, m{\"o}glich und w{\"u}nschenswert, dass der Staat ein gewisses, gleiches, kleines Minimum sichert, das vor extremer Not und Entbehrung sch{\"u}tzt. Aber alles, was dar{\"u}ber hinausgeht, insbesondere ein Versuch, die relative Stellung des einzelnen, und was er {\"u}ber das Minimum hinaus f{\"u}r sein Alter erhoffen darf, zu sichern, muss die Grundlage eines kapitalistischen Systems zerst{\"o}ren. Wenn das nicht von seinen eigenen Bem{\"u}hungen abh{\"a}ngt, verschwindet jenes Verh{\"a}ltnis, dass die Voraussetzung einer freien Wirtschaft bildet. Nur so lernt ein ganzes Volk in Kapital und nicht in Einkommen zu denken, und das ist die Vorraussetzung einer funktionierenden freien Wirtschaft."`
+
+\citep[vgl.][S.91]{Hayek1969}:Aus: Pers{\"o}nliche Erinnerungen an Keynes und die Keynessche Revolution:  "`Obwohl er [Keynes] das Werk eine "`allgemeine"'�� Theorie genannt hatte, war sie f{\"u}r mich zu offensichtlich wieder nur eine zeitbedingte Abhandlung, zugeschnitten auf die augenblicklichen politischen Notwendigkeiten, wie er sie sah."`
+
+\citep[vgl.][S.93]{Hayek1969}: "`Es ist leicht zu sehen, wie die Anschauung, nach der eine zus{\"a}tzliche Geldsch{\"o}pfung zur Erzeugung einer entsprechenden G{\"u}termenge f{\"u}hren wird, zu einem Wiederaufleben der eher naiven inflationistischen Trugschl{\"u}sse f{\"u}hren musste, die, wie wir geglaubt hatten, die National{\"o}konomie ein f{\"u}r allemal beseitigt hatte. Ich habe wenig Zweifel, dass wir die Nachkriegsinflation zum Gro{"s}teil dem starken Einfluss einessolchen {\"u}bervereinfachten Keynsianismus verdanken."`
+
+\citep[vgl.][S.96]{Hayek1969}: "`Ich wage vorauszusagen, dass wenn diese Frage der Methode einmal entschieden ist, die "`��Keynessche Revolution"'�� als eine Episode erscheinen wird, in der irrt{\"u}mliche Auffassungen {\"u}ber die geeignete wissenschaftliche Methode zu einem zeitweiligen Vergessen vieler wichtiger Einsichten f{\"u}hrten, die wir schon gewonnen hatten und die wir dann m{\"u}hevoll wiedergewinnen m{\"u}ssen."`
+
+
+\end{document}
