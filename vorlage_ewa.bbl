@@ -4,7 +4,7 @@
   }2010]{Basseler2010}
 Ba{\ss}eler, Ulrich, Heinrich, J{\"u}rgen, \& Utecht, Burkhard. 2010.
 \newblock {\em Grundlagen und Probleme der Volkswirtschaft -}. 19.
-  {\"u}berarbeitete Auflage edn.
+  {\"u}berarbeitete auflage edn.
 \newblock Stuttgart: Sch{\"a}ffer-Poeschel.
 
 \bibitem[\protect\citename{Bombach, }1981]{bombach1981theorie}
@@ -18,14 +18,9 @@ Friedman, Milton. 1970.
 \newblock {\em Die optimale Geldmenge und andere Essays}.
 \newblock M{\"u}nchen: Verlag Moderne Insdustrie.
 
-\bibitem[\protect\citename{Hayek, }1971]{hayek1971}
-Hayek, Friedrich. 1971.
-\newblock {\em Die Verfassung der Freiheit}.
-\newblock T{\"u}bingen: Mohr.
-
 \bibitem[\protect\citename{Keynes, }1924]{Keynes1997}
 Keynes, John~Maynard. 1924.
-\newblock {\em Ein Traktat {\"u}ber W{\"a}hrungsreform}. 2. Auflage edn.
+\newblock {\em Ein Traktat {\"u}ber W{\"a}hrungsreform}. 2. auflage edn.
 \newblock Duncker \& Humblot.
 
 \bibitem[\protect\citename{Keynes, }1926]{Keynes2011}
@@ -48,6 +43,11 @@ Strathern, Paul. 2006.
 von Hayek, Friedarich~August. 1969.
 \newblock {\em Freiburger Studien}.
 \newblock T{\"u}bingen: J. C. B. Mohr (Paul Siebeck).
+
+\bibitem[\protect\citename{von Hayek, }1971]{hayek1971}
+von Hayek, Friedrich~August. 1971.
+\newblock {\em Die Verfassung der Freiheit}.
+\newblock T{\"u}bingen: Mohr.
 
 \bibitem[\protect\citename{von Hayek, }1977]{Hayek1977}
 von Hayek, Friedrich~August. 1977.
